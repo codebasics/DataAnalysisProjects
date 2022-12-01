@@ -4,7 +4,7 @@
 
 navigate('https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament');
 
-let links = parse().match_summary_links;
+let links = parse().matchSummaryLinks;
 for(let i of links) { 
   next_stage({url: i}) 
 }
@@ -19,7 +19,7 @@ const allRows = $('table.engineTable > tbody > tr.data1');
   links.push(rowURL);
  })
 return {
-  'match_summary_links': links
+  'matchSummaryLinks': links
 };
 
 /* ------------ STAGE 2 -------------- */
@@ -28,8 +28,8 @@ return {
 navigate(input.url);
 
 
-let players_data = parse().players_data;
-for(let obj of players_data) { 
+let playersData = parse().playersData;
+for(let obj of playersData) { 
   name = obj['name']
   team = obj['team']
   url = obj['link']
@@ -107,7 +107,7 @@ secondInningsRows.each((index, element) => {
   });
 });
   
-return {"players_data": playersLinks}
+return {"playersData": playersLinks}
  
  
 /* ------------- STAGE 3 ------------ */
@@ -118,31 +118,32 @@ navigate(input.url);
 final_data = parse()
 collect(
 {
-  "name": input.name,
+ "name": input.name,
   "team": input.team,
-  "batting_style": final_data.bating_style,
-  "bowling_style": final_data.bowling_style,
-  "playing_role":  final_data.playing_role,
+  "Batting_Style": final_data.battingStyle,
+  "Bowling_Style": final_data.bowlingStyle,
+  "Playing_Role":  final_data.playingRole,
   "description": final_data.content,
 });
  
 //---------- 3.b Parser Code ---------//
-const batting_style = $('div.ds-grid > div').filter(function(index){
-    return $(this).find('p').first().text() === String('batting_style')
+const battingStyle = $('div.ds-grid > div').filter(function(index){
+    return $(this).find('p').first().text() === String('Batting Style')
   })
 
-const bowling_style = $('div.ds-grid > div').filter(function(index){
-    return $(this).find('p').first().text() === String('bowling_style')
+const bowlingStyle = $('div.ds-grid > div').filter(function(index){
+    return $(this).find('p').first().text() === String('Bowling Style')
   })
 
-const playing_role = $('div.ds-grid > div').filter(function(index){
-    return $(this).find('p').first().text() === String('playing_role')
+const playingRole = $('div.ds-grid > div').filter(function(index){
+    return $(this).find('p').first().text() === String('Playing Role')
   })
+
 
 
  return {
-   "bating_style": batting_style.find('span').text(),
-   "bowling_style": bowling_style.find('span').text(),
-   "playing_role": playing_role.find('span').text(),
+  	"battingStyle": battingStyle.find('span').text(),
+   "bowlingStyle": bowlingStyle.find('span').text(),
+   "playingRole": playingRole.find('span').text(),
    "content": $('div.ci-player-bio-content').find('p').first().text()
 }
