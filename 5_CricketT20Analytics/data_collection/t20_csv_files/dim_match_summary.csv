@@ -1,4 +1,4 @@
-match_id,Team_1,Team_2,Match_Date,Ground,Winner,Margin
+match_id,team1,team2,matchDate,ground,winner,margin
 T20I # 1823,Namibia,Sri Lanka,"Oct 16, 2022",Geelong,Namibia,55 runs
 T20I # 1825,Netherlands,U.A.E.,"Oct 16, 2022",Geelong,Netherlands,3 wickets
 T20I # 1826,Scotland,West Indies,"Oct 17, 2022",Hobart,Scotland,42 runs

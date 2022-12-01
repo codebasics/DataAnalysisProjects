@@ -120,9 +120,9 @@ collect(
 {
  "name": input.name,
   "team": input.team,
-  "Batting_Style": final_data.battingStyle,
-  "Bowling_Style": final_data.bowlingStyle,
-  "Playing_Role":  final_data.playingRole,
+  "battingStyle": final_data.battingStyle,
+  "bowlingStyle": final_data.bowlingStyle,
+  "playingRole":  final_data.playingRole,
   "description": final_data.content,
 });
  

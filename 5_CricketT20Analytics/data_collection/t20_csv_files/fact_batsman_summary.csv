@@ -1,45 +1,45 @@
-match_id,match,team_innings,batting_pos,batsman_name,out/not_out,runs,balls,4s,6s,SR
-T20I # 1823,Namibia Vs Sri Lanka,Namibia,1,Michael van Lingen,out,3,6,0,0,50
-T20I # 1823,Namibia Vs Sri Lanka,Namibia,2,Divan la Cock,out,9,9,1,0,100
+match_id,match,teamInnings,battingPos,batsmanName,out/not_out,runs,balls,4s,6s,SR
+T20I # 1823,Namibia Vs Sri Lanka,Namibia,1,Michael van Lingen,out,3,6,0,0,50.00
+T20I # 1823,Namibia Vs Sri Lanka,Namibia,2,Divan la Cock,out,9,9,1,0,100.00
 T20I # 1823,Namibia Vs Sri Lanka,Namibia,3,Jan Nicol Loftie-Eaton,out,20,12,1,2,166.66
 T20I # 1823,Namibia Vs Sri Lanka,Namibia,4,Stephan Baard,out,26,24,2,0,108.33
 T20I # 1823,Namibia Vs Sri Lanka,Namibia,5,Gerhard Erasmus(c),out,20,24,0,0,83.33
 T20I # 1823,Namibia Vs Sri Lanka,Namibia,6,Jan Frylinck,out,44,28,4,0,157.14
-T20I # 1823,Namibia Vs Sri Lanka,Namibia,7,David Wiese,out,0,1,0,0,0
+T20I # 1823,Namibia Vs Sri Lanka,Namibia,7,David Wiese,out,0,1,0,0,0.00
 T20I # 1823,Namibia Vs Sri Lanka,Namibia,8,JJ Smit,not_out,31,16,2,2,193.75
-T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,9,10,1,0,90
-T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,2,Kusal Mendis ,out,6,6,0,0,100
+T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,9,10,1,0,90.00
+T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,2,Kusal Mendis,out,6,6,0,0,100.00
 T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,out,12,11,1,0,109.09
-T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,4,Danushka Gunathilaka,out,0,1,0,0,0
+T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,4,Danushka Gunathilaka,out,0,1,0,0,0.00
 T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,out,20,21,2,0,95.23
 T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),out,29,23,2,1,126.08
-T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,7,Wanindu Hasaranga de Silva,out,4,8,0,0,50
-T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne,out,5,8,0,0,62.5
+T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,7,Wanindu Hasaranga de Silva,out,4,8,0,0,50.00
+T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne,out,5,8,0,0,62.50
 T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,9,Pramod Madushan,out,0,0,0,0,-
 T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,10,Dushmantha Chameera,out,8,15,0,0,53.33
-T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,11,Maheesh Theekshana,not_out,11,11,0,1,100
-T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,1,Chirag Suri,out,12,20,1,0,60
+T20I # 1823,Namibia Vs Sri Lanka,Sri Lanka,11,Maheesh Theekshana,not_out,11,11,0,1,100.00
+T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,1,Chirag Suri,out,12,20,1,0,60.00
 T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,2,Muhammad Waseem,out,41,47,1,2,87.23
 T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,3,Kashif Daud,out,15,14,0,1,107.14
-T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,4,Vriitya Aravind ,out,18,21,0,0,85.71
-T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,5,Zawar Farid,out,2,4,0,0,50
-T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,6,Basil Hameed,out,4,4,1,0,100
-T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,7,Chundangapoyil Rizwan(c),out,1,2,0,0,50
+T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,4,Vriitya Aravind,out,18,21,0,0,85.71
+T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,5,Zawar Farid,out,2,4,0,0,50.00
+T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,6,Basil Hameed,out,4,4,1,0,100.00
+T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,7,Chundangapoyil Rizwan(c),out,1,2,0,0,50.00
 T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,8,Aayan Afzal Khan,out,5,7,0,0,71.42
 T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,9,Karthik Meiyappan,not_out,0,0,0,0,-
-T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,10,Junaid Siddique,not_out,0,1,0,0,0
+T20I # 1825,U.A.E. Vs Netherlands,U.A.E.,10,Junaid Siddique,not_out,0,1,0,0,0.00
 T20I # 1825,U.A.E. Vs Netherlands,Netherlands,1,Vikramjit Singh,out,10,7,2,0,142.85
 T20I # 1825,U.A.E. Vs Netherlands,Netherlands,2,Max O'Dowd,out,23,18,3,1,127.77
 T20I # 1825,U.A.E. Vs Netherlands,Netherlands,3,Bas de Leede,out,14,18,1,0,77.77
 T20I # 1825,U.A.E. Vs Netherlands,Netherlands,4,Colin Ackermann,out,17,19,1,0,89.47
-T20I # 1825,U.A.E. Vs Netherlands,Netherlands,5,Tom Cooper,out,8,16,0,0,50
-T20I # 1825,U.A.E. Vs Netherlands,Netherlands,6,Scott Edwards(c) ,not_out,16,19,0,0,84.21
-T20I # 1825,U.A.E. Vs Netherlands,Netherlands,7,Roelof van der Merwe,out,0,2,0,0,0
+T20I # 1825,U.A.E. Vs Netherlands,Netherlands,5,Tom Cooper,out,8,16,0,0,50.00
+T20I # 1825,U.A.E. Vs Netherlands,Netherlands,6,Scott Edwards(c),not_out,16,19,0,0,84.21
+T20I # 1825,U.A.E. Vs Netherlands,Netherlands,7,Roelof van der Merwe,out,0,2,0,0,0.00
 T20I # 1825,U.A.E. Vs Netherlands,Netherlands,8,Tim Pringle,out,15,16,0,0,93.75
-T20I # 1825,U.A.E. Vs Netherlands,Netherlands,9,Logan van Beek,not_out,4,4,0,0,100
+T20I # 1825,U.A.E. Vs Netherlands,Netherlands,9,Logan van Beek,not_out,4,4,0,0,100.00
 T20I # 1826,Scotland Vs West Indies,Scotland,1,George Munsey,not_out,66,53,9,0,124.52
 T20I # 1826,Scotland Vs West Indies,Scotland,2,Michael Jones,out,20,17,3,0,117.64
-T20I # 1826,Scotland Vs West Indies,Scotland,3,Matthew Cross ,out,3,5,0,0,60
+T20I # 1826,Scotland Vs West Indies,Scotland,3,Matthew Cross,out,3,5,0,0,60.00
 T20I # 1826,Scotland Vs West Indies,Scotland,4,Richie Berrington(c),out,16,14,0,1,114.28
 T20I # 1826,Scotland Vs West Indies,Scotland,5,Calum MacLeod,out,23,14,4,0,164.28
 T20I # 1826,Scotland Vs West Indies,Scotland,6,Michael Leask,out,4,6,0,0,66.66
@@ -47,536 +47,567 @@ T20I # 1826,Scotland Vs West Indies,Scotland,7,Chris Greaves,not_out,16,11,2,0,1
 T20I # 1826,Scotland Vs West Indies,West Indies,1,Kyle Mayers,out,20,13,3,1,153.84
 T20I # 1826,Scotland Vs West Indies,West Indies,2,Evin Lewis,out,14,13,1,1,107.69
 T20I # 1826,Scotland Vs West Indies,West Indies,3,Brandon King,out,17,15,3,0,113.33
-T20I # 1826,Scotland Vs West Indies,West Indies,4,Nicholas Pooran(c) ,out,5,9,0,0,55.55
+T20I # 1826,Scotland Vs West Indies,West Indies,4,Nicholas Pooran(c),out,5,9,0,0,55.55
 T20I # 1826,Scotland Vs West Indies,West Indies,5,Shamarh Brooks,out,4,9,0,0,44.44
 T20I # 1826,Scotland Vs West Indies,West Indies,6,Rovman Powell,out,5,6,0,0,83.33
 T20I # 1826,Scotland Vs West Indies,West Indies,7,Jason Holder,out,38,33,4,1,115.15
-T20I # 1826,Scotland Vs West Indies,West Indies,8,Akeal Hosein,out,1,1,0,0,100
-T20I # 1826,Scotland Vs West Indies,West Indies,9,Alzarri Joseph,out,0,1,0,0,0
-T20I # 1826,Scotland Vs West Indies,West Indies,10,Odean Smith,out,5,8,0,0,62.5
+T20I # 1826,Scotland Vs West Indies,West Indies,8,Akeal Hosein,out,1,1,0,0,100.00
+T20I # 1826,Scotland Vs West Indies,West Indies,9,Alzarri Joseph,out,0,1,0,0,0.00
+T20I # 1826,Scotland Vs West Indies,West Indies,10,Odean Smith,out,5,8,0,0,62.50
 T20I # 1826,Scotland Vs West Indies,West Indies,11,Obed McCoy,not_out,2,3,0,0,66.66
-T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,1,Regis Chakabva ,out,0,2,0,0,0
-T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,2,Craig Ervine(c),out,9,12,1,0,75
+T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,1,Regis Chakabva,out,0,2,0,0,0.00
+T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,2,Craig Ervine(c),out,9,12,1,0,75.00
 T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,3,Wessly Madhevere,out,22,19,4,0,115.78
 T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,4,Sean Williams,out,12,11,0,1,109.09
 T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,5,Sikandar Raza,out,82,48,5,5,170.83
 T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,6,Milton Shumba,out,16,14,1,0,114.28
-T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,7,Ryan Burl,out,1,4,0,0,25
-T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,8,Luke Jongwe,not_out,20,10,3,0,200
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,1,Paul Stirling,out,0,2,0,0,0
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,2,Andy Balbirnie(c),out,3,4,0,0,75
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,3,Lorcan Tucker ,out,11,11,2,0,100
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,4,Harry Tector,out,1,4,0,0,25
+T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,7,Ryan Burl,out,1,4,0,0,25.00
+T20I # 1828,Zimbabwe Vs Ireland,Zimbabwe,8,Luke Jongwe,not_out,20,10,3,0,200.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,1,Paul Stirling,out,0,2,0,0,0.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,2,Andy Balbirnie(c),out,3,4,0,0,75.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,3,Lorcan Tucker,out,11,11,2,0,100.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,4,Harry Tector,out,1,4,0,0,25.00
 T20I # 1828,Zimbabwe Vs Ireland,Ireland,5,Curtis Campher,out,27,22,1,0,122.72
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,6,George Dockrell,out,24,20,3,0,120
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,7,Gareth Delany,out,24,20,1,1,120
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,8,Mark Adair,out,9,10,0,1,90
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,9,Simi Singh,out,0,1,0,0,0
-T20I # 1828,Zimbabwe Vs Ireland,Ireland,10,Barry McCarthy,not_out,22,16,1,2,137.5
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,6,George Dockrell,out,24,20,3,0,120.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,7,Gareth Delany,out,24,20,1,1,120.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,8,Mark Adair,out,9,10,0,1,90.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,9,Simi Singh,out,0,1,0,0,0.00
+T20I # 1828,Zimbabwe Vs Ireland,Ireland,10,Barry McCarthy,not_out,22,16,1,2,137.50
 T20I # 1828,Zimbabwe Vs Ireland,Ireland,11,Josh Little,not_out,7,11,1,0,63.63
 T20I # 1830,Namibia Vs Netherlands,Namibia,1,Michael van Lingen,out,20,19,3,0,105.26
-T20I # 1830,Namibia Vs Netherlands,Namibia,2,Divan la Cock,out,0,2,0,0,0
+T20I # 1830,Namibia Vs Netherlands,Namibia,2,Divan la Cock,out,0,2,0,0,0.00
 T20I # 1830,Namibia Vs Netherlands,Namibia,3,Stephan Baard,out,19,22,0,0,86.36
-T20I # 1830,Namibia Vs Netherlands,Namibia,4,Jan Nicol Loftie-Eaton,out,0,2,0,0,0
+T20I # 1830,Namibia Vs Netherlands,Namibia,4,Jan Nicol Loftie-Eaton,out,0,2,0,0,0.00
 T20I # 1830,Namibia Vs Netherlands,Namibia,5,Jan Frylinck,out,43,48,1,1,89.58
 T20I # 1830,Namibia Vs Netherlands,Namibia,6,Gerhard Erasmus(c),out,16,18,0,0,88.88
-T20I # 1830,Namibia Vs Netherlands,Namibia,7,David Wiese,not_out,11,5,1,0,220
-T20I # 1830,Namibia Vs Netherlands,Namibia,8,JJ Smit,not_out,5,4,1,0,125
-T20I # 1830,Namibia Vs Netherlands,Netherlands,1,Max O'Dowd,out,35,35,1,1,100
-T20I # 1830,Namibia Vs Netherlands,Netherlands,2,Vikramjit Singh,out,39,31,3,2,125.8
-T20I # 1830,Namibia Vs Netherlands,Netherlands,3,Bas de Leede,not_out,30,30,2,0,100
-T20I # 1830,Namibia Vs Netherlands,Netherlands,4,Tom Cooper,out,6,6,1,0,100
-T20I # 1830,Namibia Vs Netherlands,Netherlands,5,Colin Ackermann,out,0,2,0,0,0
-T20I # 1830,Namibia Vs Netherlands,Netherlands,6,Scott Edwards(c) ,out,1,5,0,0,20
+T20I # 1830,Namibia Vs Netherlands,Namibia,7,David Wiese,not_out,11,5,1,0,220.00
+T20I # 1830,Namibia Vs Netherlands,Namibia,8,JJ Smit,not_out,5,4,1,0,125.00
+T20I # 1830,Namibia Vs Netherlands,Netherlands,1,Max O'Dowd,out,35,35,1,1,100.00
+T20I # 1830,Namibia Vs Netherlands,Netherlands,2,Vikramjit Singh,out,39,31,3,2,125.80
+T20I # 1830,Namibia Vs Netherlands,Netherlands,3,Bas de Leede,not_out,30,30,2,0,100.00
+T20I # 1830,Namibia Vs Netherlands,Netherlands,4,Tom Cooper,out,6,6,1,0,100.00
+T20I # 1830,Namibia Vs Netherlands,Netherlands,5,Colin Ackermann,out,0,2,0,0,0.00
+T20I # 1830,Namibia Vs Netherlands,Netherlands,6,Scott Edwards(c),out,1,5,0,0,20.00
 T20I # 1830,Namibia Vs Netherlands,Netherlands,7,Tim Pringle,not_out,8,9,0,0,88.88
-T20I # 1833,Scotland Vs Ireland,Scotland,1,George Munsey,out,1,2,0,0,50
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,1,Pathum Nissanka,out,74,60,6,2,123.33
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,2,Kusal Mendis,out,18,13,2,0,138.46
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,3,Dhananjaya de Silva,out,33,21,3,1,157.14
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,4,Bhanuka Rajapaksa,out,5,8,0,0,62.50
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,5,Charith Asalanka,out,0,1,0,0,0.00
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,6,Dasun Shanaka(c),out,0,1,0,0,0.00
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,7,Wanindu Hasaranga de Silva,out,2,3,0,0,66.66
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,8,Chamika Karunaratne,out,8,11,1,0,72.72
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,9,Pramod Madushan,not_out,1,1,0,0,100.00
+T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,10,Dushmantha Chameera,not_out,1,1,0,0,100.00
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,1,Muhammad Waseem,out,2,4,0,0,50.00
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,2,Chirag Suri,out,14,19,3,0,73.68
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,3,Aryan Lakra,out,1,3,0,0,33.33
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,4,Chundangapoyil Rizwan(c),out,1,3,0,0,33.33
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,5,Vriitya Aravind,out,9,18,1,0,50.00
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,6,Basil Hameed,out,2,6,0,0,33.33
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,7,Aayan Afzal Khan,out,19,21,1,0,90.47
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,8,Kashif Daud,out,0,4,0,0,0.00
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,9,Karthik Meiyappan,out,4,8,0,0,50.00
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,10,Junaid Siddique,out,18,16,1,1,112.50
+T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,11,Zahoor Khan,not_out,1,1,0,0,100.00
+T20I # 1833,Scotland Vs Ireland,Scotland,1,George Munsey,out,1,2,0,0,50.00
 T20I # 1833,Scotland Vs Ireland,Scotland,2,Michael Jones,out,86,55,6,4,156.36
-T20I # 1833,Scotland Vs Ireland,Scotland,3,Matthew Cross ,out,28,21,5,0,133.33
+T20I # 1833,Scotland Vs Ireland,Scotland,3,Matthew Cross,out,28,21,5,0,133.33
 T20I # 1833,Scotland Vs Ireland,Scotland,4,Richie Berrington(c),out,37,27,3,1,137.03
 T20I # 1833,Scotland Vs Ireland,Scotland,5,Michael Leask,not_out,17,13,2,0,130.76
-T20I # 1833,Scotland Vs Ireland,Scotland,6,Calum MacLeod,out,0,3,0,0,0
-T20I # 1833,Scotland Vs Ireland,Ireland,1,Paul Stirling,out,8,10,1,0,80
+T20I # 1833,Scotland Vs Ireland,Scotland,6,Calum MacLeod,out,0,3,0,0,0.00
+T20I # 1833,Scotland Vs Ireland,Ireland,1,Paul Stirling,out,8,10,1,0,80.00
 T20I # 1833,Scotland Vs Ireland,Ireland,2,Andy Balbirnie(c),out,14,12,2,0,116.66
-T20I # 1833,Scotland Vs Ireland,Ireland,3,Lorcan Tucker ,out,20,17,2,0,117.64
-T20I # 1833,Scotland Vs Ireland,Ireland,4,Harry Tector,out,14,16,1,0,87.5
-T20I # 1833,Scotland Vs Ireland,Ireland,5,Curtis Campher,not_out,72,32,7,2,225
+T20I # 1833,Scotland Vs Ireland,Ireland,3,Lorcan Tucker,out,20,17,2,0,117.64
+T20I # 1833,Scotland Vs Ireland,Ireland,4,Harry Tector,out,14,16,1,0,87.50
+T20I # 1833,Scotland Vs Ireland,Ireland,5,Curtis Campher,not_out,72,32,7,2,225.00
 T20I # 1833,Scotland Vs Ireland,Ireland,6,George Dockrell,not_out,39,27,4,1,144.44
 T20I # 1834,West Indies Vs Zimbabwe,West Indies,1,Kyle Mayers,out,13,12,2,0,108.33
-T20I # 1834,West Indies Vs Zimbabwe,West Indies,2,Johnson Charles,out,45,36,3,2,125
+T20I # 1834,West Indies Vs Zimbabwe,West Indies,2,Johnson Charles,out,45,36,3,2,125.00
 T20I # 1834,West Indies Vs Zimbabwe,West Indies,3,Evin Lewis,out,15,18,1,0,83.33
-T20I # 1834,West Indies Vs Zimbabwe,West Indies,4,Nicholas Pooran(c) ,out,7,9,0,0,77.77
+T20I # 1834,West Indies Vs Zimbabwe,West Indies,4,Nicholas Pooran(c),out,7,9,0,0,77.77
 T20I # 1834,West Indies Vs Zimbabwe,West Indies,5,Rovman Powell,out,28,21,1,2,133.33
-T20I # 1834,West Indies Vs Zimbabwe,West Indies,6,Shamarh Brooks,out,0,3,0,0,0
+T20I # 1834,West Indies Vs Zimbabwe,West Indies,6,Shamarh Brooks,out,0,3,0,0,0.00
 T20I # 1834,West Indies Vs Zimbabwe,West Indies,7,Jason Holder,out,4,3,0,0,133.33
 T20I # 1834,West Indies Vs Zimbabwe,West Indies,8,Akeal Hosein,not_out,23,18,2,0,127.77
-T20I # 1834,West Indies Vs Zimbabwe,West Indies,9,Odean Smith,not_out,1,2,0,0,50
-T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,out,27,19,3,1,142.1
-T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,2,Regis Chakabva(c) ,out,13,9,3,0,144.44
+T20I # 1834,West Indies Vs Zimbabwe,West Indies,9,Odean Smith,not_out,1,2,0,0,50.00
+T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,out,27,19,3,1,142.10
+T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,2,Regis Chakabva(c),out,13,9,3,0,144.44
 T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,3,Tony Munyonga,out,2,6,0,0,33.33
-T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,4,Sean Williams,out,1,2,0,0,50
-T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,out,14,8,1,1,175
+T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,4,Sean Williams,out,1,2,0,0,50.00
+T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,out,14,8,1,1,175.00
 T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,6,Milton Shumba,out,2,9,0,0,22.22
 T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,7,Ryan Burl,out,17,19,3,0,89.47
 T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,8,Luke Jongwe,out,29,22,3,1,131.81
 T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,9,Richard Ngarava,out,2,6,0,0,33.33
-T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,10,Tendai Chatara,out,3,8,0,0,37.5
-T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,not_out,1,4,0,0,25
+T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,10,Tendai Chatara,out,3,8,0,0,37.50
+T20I # 1834,West Indies Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,not_out,1,4,0,0,25.00
 T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,1,Pathum Nissanka,out,14,21,0,1,66.66
-T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,2,Kusal Mendis ,out,79,44,5,5,179.54
-T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,3,Dhananjaya de Silva,out,0,1,0,0,0
+T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,2,Kusal Mendis,out,79,44,5,5,179.54
+T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,3,Dhananjaya de Silva,out,0,1,0,0,0.00
 T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,4,Charith Asalanka,out,31,30,3,0,103.33
 T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,5,Bhanuka Rajapaksa,out,19,13,2,0,146.15
-T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,6,Dasun Shanaka(c),out,8,5,0,1,160
-T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,7,Wanindu Hasaranga de Silva,not_out,5,4,0,0,125
-T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,8,Chamika Karunaratne,not_out,2,2,0,0,100
+T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,6,Dasun Shanaka(c),out,8,5,0,1,160.00
+T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,7,Wanindu Hasaranga de Silva,not_out,5,4,0,0,125.00
+T20I # 1835,Sri Lanka Vs Netherlands,Sri Lanka,8,Chamika Karunaratne,not_out,2,2,0,0,100.00
 T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,1,Max O'Dowd,not_out,71,53,6,3,133.96
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,2,Vikramjit Singh,out,7,14,0,0,50
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,3,Bas de Leede,out,14,10,1,1,140
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,4,Colin Ackermann,out,0,1,0,0,0
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,2,Vikramjit Singh,out,7,14,0,0,50.00
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,3,Bas de Leede,out,14,10,1,1,140.00
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,4,Colin Ackermann,out,0,1,0,0,0.00
 T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,5,Tom Cooper,out,16,19,2,0,84.21
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,6,Scott Edwards(c) ,out,21,15,3,0,140
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,7,Tim Pringle,out,2,4,0,0,50
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,8,Timm van der Gugten,out,0,1,0,0,0
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,9,Fred Klaassen,out,3,3,0,0,100
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,6,Scott Edwards(c),out,21,15,3,0,140.00
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,7,Tim Pringle,out,2,4,0,0,50.00
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,8,Timm van der Gugten,out,0,1,0,0,0.00
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,9,Fred Klaassen,out,3,3,0,0,100.00
 T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,10,Paul van Meekeren,out,0,0,0,0,-
-T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,11,Roelof van der Merwe,not_out,0,1,0,0,0
+T20I # 1835,Sri Lanka Vs Netherlands,Netherlands,11,Roelof van der Merwe,not_out,0,1,0,0,0.00
 T20I # 1836,U.A.E. Vs Namibia,U.A.E.,1,Muhammad Waseem,out,50,41,1,3,121.95
-T20I # 1836,U.A.E. Vs Namibia,U.A.E.,2,Vriitya Aravind ,out,21,32,2,0,65.62
+T20I # 1836,U.A.E. Vs Namibia,U.A.E.,2,Vriitya Aravind,out,21,32,2,0,65.62
 T20I # 1836,U.A.E. Vs Namibia,U.A.E.,3,Chundangapoyil Rizwan(c),not_out,43,29,3,1,148.27
-T20I # 1836,U.A.E. Vs Namibia,U.A.E.,4,Alishan Sharafu,out,4,4,0,0,100
+T20I # 1836,U.A.E. Vs Namibia,U.A.E.,4,Alishan Sharafu,out,4,4,0,0,100.00
 T20I # 1836,U.A.E. Vs Namibia,U.A.E.,5,Basil Hameed,not_out,25,14,2,2,178.57
-T20I # 1836,U.A.E. Vs Namibia,Namibia,1,Michael van Lingen,out,10,8,1,0,125
+T20I # 1836,U.A.E. Vs Namibia,Namibia,1,Michael van Lingen,out,10,8,1,0,125.00
 T20I # 1836,U.A.E. Vs Namibia,Namibia,2,Stephan Baard,out,4,6,1,0,66.66
 T20I # 1836,U.A.E. Vs Namibia,Namibia,3,Jan Nicol Loftie-Eaton,out,1,6,0,0,16.66
 T20I # 1836,U.A.E. Vs Namibia,Namibia,4,Gerhard Erasmus(c),out,16,18,2,0,88.88
 T20I # 1836,U.A.E. Vs Namibia,Namibia,5,Jan Frylinck,out,14,17,1,0,82.35
-T20I # 1836,U.A.E. Vs Namibia,Namibia,6,JJ Smit,out,3,3,0,0,100
+T20I # 1836,U.A.E. Vs Namibia,Namibia,6,JJ Smit,out,3,3,0,0,100.00
 T20I # 1836,U.A.E. Vs Namibia,Namibia,7,David Wiese,out,55,36,3,3,152.77
-T20I # 1836,U.A.E. Vs Namibia,Namibia,8,Zane Green ,out,2,3,0,0,66.66
+T20I # 1836,U.A.E. Vs Namibia,Namibia,8,Zane Green,out,2,3,0,0,66.66
 T20I # 1836,U.A.E. Vs Namibia,Namibia,9,Ruben Trumpelmann,not_out,25,24,1,1,104.16
-T20I # 1836,U.A.E. Vs Namibia,Namibia,10,Bernard Scholtz,not_out,1,1,0,0,100
+T20I # 1836,U.A.E. Vs Namibia,Namibia,10,Bernard Scholtz,not_out,1,1,0,0,100.00
+T20I # 1837,West Indies Vs Ireland,West Indies,1,Kyle Mayers,out,1,5,0,0,20.00
+T20I # 1837,West Indies Vs Ireland,West Indies,2,Johnson Charles,out,24,18,3,1,133.33
+T20I # 1837,West Indies Vs Ireland,West Indies,3,Evin Lewis,out,13,18,0,0,72.22
+T20I # 1837,West Indies Vs Ireland,West Indies,4,Brandon King,not_out,62,48,6,1,129.16
+T20I # 1837,West Indies Vs Ireland,West Indies,5,Nicholas Pooran(c),out,13,11,0,1,118.18
+T20I # 1837,West Indies Vs Ireland,West Indies,6,Rovman Powell,out,6,8,1,0,75.00
+T20I # 1837,West Indies Vs Ireland,West Indies,7,Odean Smith,not_out,19,12,1,2,158.33
+T20I # 1837,West Indies Vs Ireland,Ireland,1,Paul Stirling,not_out,66,48,6,2,137.50
+T20I # 1837,West Indies Vs Ireland,Ireland,2,Andy Balbirnie(c),out,37,23,3,3,160.86
+T20I # 1837,West Indies Vs Ireland,Ireland,3,Lorcan Tucker,not_out,45,35,2,2,128.57
 T20I # 1838,Scotland Vs Zimbabwe,Scotland,1,George Munsey,out,54,51,7,0,105.88
-T20I # 1838,Scotland Vs Zimbabwe,Scotland,2,Michael Jones,out,4,5,1,0,80
-T20I # 1838,Scotland Vs Zimbabwe,Scotland,3,Matthew Cross ,out,1,7,0,0,14.28
+T20I # 1838,Scotland Vs Zimbabwe,Scotland,2,Michael Jones,out,4,5,1,0,80.00
+T20I # 1838,Scotland Vs Zimbabwe,Scotland,3,Matthew Cross,out,1,7,0,0,14.28
 T20I # 1838,Scotland Vs Zimbabwe,Scotland,4,Richie Berrington(c),out,13,15,0,0,86.66
 T20I # 1838,Scotland Vs Zimbabwe,Scotland,5,Calum MacLeod,out,25,26,1,0,96.15
 T20I # 1838,Scotland Vs Zimbabwe,Scotland,6,Michael Leask,out,12,9,2,0,133.33
 T20I # 1838,Scotland Vs Zimbabwe,Scotland,7,Chris Greaves,not_out,3,7,0,0,42.85
 T20I # 1838,Scotland Vs Zimbabwe,Scotland,8,Josh Davey,not_out,4,3,0,0,133.33
-T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,1,Regis Chakabva ,out,4,3,1,0,133.33
-T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),out,58,54,6,0,107.4
-T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,3,Wessly Madhevere,out,0,5,0,0,0
+T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,1,Regis Chakabva,out,4,3,1,0,133.33
+T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),out,58,54,6,0,107.40
+T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,3,Wessly Madhevere,out,0,5,0,0,0.00
 T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,4,Sean Williams,out,7,12,0,0,58.33
 T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,out,40,23,3,2,173.91
-T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,6,Milton Shumba,not_out,11,11,0,0,100
-T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,7,Ryan Burl,not_out,9,5,1,0,180
-T20I # 1839,New Zealand Vs Australia,New Zealand,1,Finn Allen,out,42,16,5,3,262.5
-T20I # 1839,New Zealand Vs Australia,New Zealand,2,Devon Conway ,not_out,92,58,7,2,158.62
-T20I # 1839,New Zealand Vs Australia,New Zealand,3,Kane Williamson(c),out,23,23,1,1,100
-T20I # 1839,New Zealand Vs Australia,New Zealand,4,Glenn Phillips,out,12,10,2,0,120
-T20I # 1839,New Zealand Vs Australia,New Zealand,5,James Neesham,not_out,26,13,0,2,200
+T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,6,Milton Shumba,not_out,11,11,0,0,100.00
+T20I # 1838,Scotland Vs Zimbabwe,Zimbabwe,7,Ryan Burl,not_out,9,5,1,0,180.00
+T20I # 1839,New Zealand Vs Australia,New Zealand,1,Finn Allen,out,42,16,5,3,262.50
+T20I # 1839,New Zealand Vs Australia,New Zealand,2,Devon Conway,not_out,92,58,7,2,158.62
+T20I # 1839,New Zealand Vs Australia,New Zealand,3,Kane Williamson(c),out,23,23,1,1,100.00
+T20I # 1839,New Zealand Vs Australia,New Zealand,4,Glenn Phillips,out,12,10,2,0,120.00
+T20I # 1839,New Zealand Vs Australia,New Zealand,5,James Neesham,not_out,26,13,0,2,200.00
 T20I # 1839,New Zealand Vs Australia,Australia,1,David Warner,out,5,6,1,0,83.33
 T20I # 1839,New Zealand Vs Australia,Australia,2,Aaron Finch(c),out,13,11,1,1,118.18
 T20I # 1839,New Zealand Vs Australia,Australia,3,Mitchell Marsh,out,16,12,2,1,133.33
-T20I # 1839,New Zealand Vs Australia,Australia,4,Glenn Maxwell,out,28,20,3,1,140
-T20I # 1839,New Zealand Vs Australia,Australia,5,Marcus Stoinis,out,7,14,0,0,50
-T20I # 1839,New Zealand Vs Australia,Australia,6,Tim David,out,11,8,0,1,137.5
-T20I # 1839,New Zealand Vs Australia,Australia,7,Matthew Wade ,out,2,4,0,0,50
+T20I # 1839,New Zealand Vs Australia,Australia,4,Glenn Maxwell,out,28,20,3,1,140.00
+T20I # 1839,New Zealand Vs Australia,Australia,5,Marcus Stoinis,out,7,14,0,0,50.00
+T20I # 1839,New Zealand Vs Australia,Australia,6,Tim David,out,11,8,0,1,137.50
+T20I # 1839,New Zealand Vs Australia,Australia,7,Matthew Wade,out,2,4,0,0,50.00
 T20I # 1839,New Zealand Vs Australia,Australia,8,Pat Cummins,out,21,18,2,1,116.66
 T20I # 1839,New Zealand Vs Australia,Australia,9,Mitchell Starc,out,4,7,0,0,57.14
-T20I # 1839,New Zealand Vs Australia,Australia,10,Adam Zampa,out,0,2,0,0,0
-T20I # 1839,New Zealand Vs Australia,Australia,11,Josh Hazlewood,not_out,1,1,0,0,100
+T20I # 1839,New Zealand Vs Australia,Australia,10,Adam Zampa,out,0,2,0,0,0.00
+T20I # 1839,New Zealand Vs Australia,Australia,11,Josh Hazlewood,not_out,1,1,0,0,100.00
 T20I # 1840,Afghanistan Vs England,Afghanistan,1,Hazratullah Zazai,out,7,17,1,0,41.17
-T20I # 1840,Afghanistan Vs England,Afghanistan,2,Rahmanullah Gurbaz ,out,10,9,0,1,111.11
-T20I # 1840,Afghanistan Vs England,Afghanistan,3,Ibrahim Zadran,out,32,32,3,1,100
-T20I # 1840,Afghanistan Vs England,Afghanistan,4,Usman Ghani,out,30,30,3,0,100
+T20I # 1840,Afghanistan Vs England,Afghanistan,2,Rahmanullah Gurbaz,out,10,9,0,1,111.11
+T20I # 1840,Afghanistan Vs England,Afghanistan,3,Ibrahim Zadran,out,32,32,3,1,100.00
+T20I # 1840,Afghanistan Vs England,Afghanistan,4,Usman Ghani,out,30,30,3,0,100.00
 T20I # 1840,Afghanistan Vs England,Afghanistan,5,Najibullah Zadran,out,13,11,0,1,118.18
-T20I # 1840,Afghanistan Vs England,Afghanistan,6,Mohammad Nabi(c),out,3,5,0,0,60
+T20I # 1840,Afghanistan Vs England,Afghanistan,6,Mohammad Nabi(c),out,3,5,0,0,60.00
 T20I # 1840,Afghanistan Vs England,Afghanistan,7,Azmatullah Omarzai,out,8,6,1,0,133.33
-T20I # 1840,Afghanistan Vs England,Afghanistan,8,Rashid Khan,out,0,1,0,0,0
-T20I # 1840,Afghanistan Vs England,Afghanistan,9,Mujeeb Ur Rahman,out,0,1,0,0,0
-T20I # 1840,Afghanistan Vs England,Afghanistan,10,Fareed Ahmad,not_out,2,4,0,0,50
-T20I # 1840,Afghanistan Vs England,Afghanistan,11,Fazalhaq Farooqi,out,0,2,0,0,0
-T20I # 1840,Afghanistan Vs England,England,1,Jos Buttler(c) ,out,18,18,3,0,100
-T20I # 1840,Afghanistan Vs England,England,2,Alex Hales,out,19,20,0,1,95
-T20I # 1840,Afghanistan Vs England,England,3,Dawid Malan,out,18,30,0,0,60
-T20I # 1840,Afghanistan Vs England,England,4,Ben Stokes,out,2,4,0,0,50
+T20I # 1840,Afghanistan Vs England,Afghanistan,8,Rashid Khan,out,0,1,0,0,0.00
+T20I # 1840,Afghanistan Vs England,Afghanistan,9,Mujeeb Ur Rahman,out,0,1,0,0,0.00
+T20I # 1840,Afghanistan Vs England,Afghanistan,10,Fareed Ahmad,not_out,2,4,0,0,50.00
+T20I # 1840,Afghanistan Vs England,Afghanistan,11,Fazalhaq Farooqi,out,0,2,0,0,0.00
+T20I # 1840,Afghanistan Vs England,England,1,Jos Buttler(c),out,18,18,3,0,100.00
+T20I # 1840,Afghanistan Vs England,England,2,Alex Hales,out,19,20,0,1,95.00
+T20I # 1840,Afghanistan Vs England,England,3,Dawid Malan,out,18,30,0,0,60.00
+T20I # 1840,Afghanistan Vs England,England,4,Ben Stokes,out,2,4,0,0,50.00
 T20I # 1840,Afghanistan Vs England,England,5,Liam Livingstone,not_out,29,21,3,0,138.09
 T20I # 1840,Afghanistan Vs England,England,6,Harry Brook,out,7,6,0,0,116.66
-T20I # 1840,Afghanistan Vs England,England,7,Moeen Ali,not_out,8,10,0,0,80
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,1,Paul Stirling,out,34,25,4,1,136
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,2,Andy Balbirnie(c),out,1,5,0,0,20
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,3,Lorcan Tucker ,out,10,11,1,0,90.9
+T20I # 1840,Afghanistan Vs England,England,7,Moeen Ali,not_out,8,10,0,0,80.00
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,1,Paul Stirling,out,34,25,4,1,136.00
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,2,Andy Balbirnie(c),out,1,5,0,0,20.00
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,3,Lorcan Tucker,out,10,11,1,0,90.90
 T20I # 1841,Ireland Vs Sri Lanka,Ireland,4,Harry Tector,out,45,42,2,1,107.14
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,5,Curtis Campher,out,2,4,0,0,50
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,6,George Dockrell,out,14,16,0,0,87.5
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,7,Gareth Delany,out,9,6,1,0,150
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,8,Mark Adair,out,0,1,0,0,0
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,9,Simi Singh,not_out,7,8,1,0,87.5
-T20I # 1841,Ireland Vs Sri Lanka,Ireland,10,Barry McCarthy,not_out,2,2,0,0,100
-T20I # 1841,Ireland Vs Sri Lanka,Sri Lanka,1,Kusal Mendis ,not_out,68,43,5,3,158.13
-T20I # 1841,Ireland Vs Sri Lanka,Sri Lanka,2,Dhananjaya de Silva,out,31,25,2,1,124
-T20I # 1841,Ireland Vs Sri Lanka,Sri Lanka,3,Charith Asalanka,not_out,31,22,2,0,140.9
-T20I # 1842,Pakistan Vs India,Pakistan,1,Mohammad Rizwan ,out,4,12,1,0,33.33
-T20I # 1842,Pakistan Vs India,Pakistan,2,Babar Azam(c),out,0,1,0,0,0
-T20I # 1842,Pakistan Vs India,Pakistan,3,Shan Masood,not_out,52,42,5,0,123.8
-T20I # 1842,Pakistan Vs India,Pakistan,4,Iftikhar Ahmed,out,51,34,2,4,150
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,5,Curtis Campher,out,2,4,0,0,50.00
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,6,George Dockrell,out,14,16,0,0,87.50
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,7,Gareth Delany,out,9,6,1,0,150.00
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,8,Mark Adair,out,0,1,0,0,0.00
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,9,Simi Singh,not_out,7,8,1,0,87.50
+T20I # 1841,Ireland Vs Sri Lanka,Ireland,10,Barry McCarthy,not_out,2,2,0,0,100.00
+T20I # 1841,Ireland Vs Sri Lanka,Sri Lanka,1,Kusal Mendis,not_out,68,43,5,3,158.13
+T20I # 1841,Ireland Vs Sri Lanka,Sri Lanka,2,Dhananjaya de Silva,out,31,25,2,1,124.00
+T20I # 1841,Ireland Vs Sri Lanka,Sri Lanka,3,Charith Asalanka,not_out,31,22,2,0,140.90
+T20I # 1842,Pakistan Vs India,Pakistan,1,Mohammad Rizwan,out,4,12,1,0,33.33
+T20I # 1842,Pakistan Vs India,Pakistan,2,Babar Azam(c),out,0,1,0,0,0.00
+T20I # 1842,Pakistan Vs India,Pakistan,3,Shan Masood,not_out,52,42,5,0,123.80
+T20I # 1842,Pakistan Vs India,Pakistan,4,Iftikhar Ahmed,out,51,34,2,4,150.00
 T20I # 1842,Pakistan Vs India,Pakistan,5,Shadab Khan,out,5,6,1,0,83.33
-T20I # 1842,Pakistan Vs India,Pakistan,6,Haider Ali,out,2,4,0,0,50
-T20I # 1842,Pakistan Vs India,Pakistan,7,Mohammad Nawaz,out,9,6,2,0,150
+T20I # 1842,Pakistan Vs India,Pakistan,6,Haider Ali,out,2,4,0,0,50.00
+T20I # 1842,Pakistan Vs India,Pakistan,7,Mohammad Nawaz,out,9,6,2,0,150.00
 T20I # 1842,Pakistan Vs India,Pakistan,8,Asif Ali,out,2,3,0,0,66.66
-T20I # 1842,Pakistan Vs India,Pakistan,9,Shaheen Shah Afridi,out,16,8,1,1,200
-T20I # 1842,Pakistan Vs India,Pakistan,10,Haris Rauf,not_out,6,4,0,1,150
-T20I # 1842,Pakistan Vs India,India,1,KL Rahul,out,4,8,0,0,50
+T20I # 1842,Pakistan Vs India,Pakistan,9,Shaheen Shah Afridi,out,16,8,1,1,200.00
+T20I # 1842,Pakistan Vs India,Pakistan,10,Haris Rauf,not_out,6,4,0,1,150.00
+T20I # 1842,Pakistan Vs India,India,1,KL Rahul,out,4,8,0,0,50.00
 T20I # 1842,Pakistan Vs India,India,2,Rohit Sharma(c),out,4,7,0,0,57.14
 T20I # 1842,Pakistan Vs India,India,3,Virat Kohli,not_out,82,53,6,4,154.71
-T20I # 1842,Pakistan Vs India,India,4,Suryakumar Yadav,out,15,10,2,0,150
+T20I # 1842,Pakistan Vs India,India,4,Suryakumar Yadav,out,15,10,2,0,150.00
 T20I # 1842,Pakistan Vs India,India,5,Axar Patel,out,2,3,0,0,66.66
-T20I # 1842,Pakistan Vs India,India,6,Hardik Pandya,out,40,37,1,2,108.1
-T20I # 1842,Pakistan Vs India,India,7,Dinesh Karthik ,out,1,2,0,0,50
-T20I # 1842,Pakistan Vs India,India,8,Ravichandran Ashwin,not_out,1,1,0,0,100
-T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,1,Najmul Hossain Shanto,out,25,20,4,0,125
-T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,2,Soumya Sarkar,out,14,14,2,0,100
+T20I # 1842,Pakistan Vs India,India,6,Hardik Pandya,out,40,37,1,2,108.10
+T20I # 1842,Pakistan Vs India,India,7,Dinesh Karthik,out,1,2,0,0,50.00
+T20I # 1842,Pakistan Vs India,India,8,Ravichandran Ashwin,not_out,1,1,0,0,100.00
+T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,1,Najmul Hossain Shanto,out,25,20,4,0,125.00
+T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,2,Soumya Sarkar,out,14,14,2,0,100.00
 T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,3,Litton Das,out,9,11,0,0,81.81
 T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,4,Shakib Al Hasan(c),out,7,9,0,0,77.77
 T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,5,Afif Hossain,out,38,27,2,2,140.74
-T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,6,Yasir Ali,out,3,5,0,0,60
-T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,7,Nurul Hasan ,out,13,18,0,0,72.22
+T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,6,Yasir Ali,out,3,5,0,0,60.00
+T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,7,Nurul Hasan,out,13,18,0,0,72.22
 T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,8,Mosaddek Hossain,not_out,20,12,2,1,166.66
-T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,9,Taskin Ahmed,out,0,1,0,0,0
-T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,10,Hasan Mahmud,not_out,0,3,0,0,0
-T20I # 1843,Bangladesh Vs Netherlands,Netherlands,1,Vikramjit Singh,out,0,1,0,0,0
-T20I # 1843,Bangladesh Vs Netherlands,Netherlands,2,Max O'Dowd,out,8,8,0,1,100
-T20I # 1843,Bangladesh Vs Netherlands,Netherlands,3,Bas de Leede,out,0,1,0,0,0
+T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,9,Taskin Ahmed,out,0,1,0,0,0.00
+T20I # 1843,Bangladesh Vs Netherlands,Bangladesh,10,Hasan Mahmud,not_out,0,3,0,0,0.00
+T20I # 1843,Bangladesh Vs Netherlands,Netherlands,1,Vikramjit Singh,out,0,1,0,0,0.00
+T20I # 1843,Bangladesh Vs Netherlands,Netherlands,2,Max O'Dowd,out,8,8,0,1,100.00
+T20I # 1843,Bangladesh Vs Netherlands,Netherlands,3,Bas de Leede,out,0,1,0,0,0.00
 T20I # 1843,Bangladesh Vs Netherlands,Netherlands,4,Colin Ackermann,out,62,48,6,2,129.16
 T20I # 1843,Bangladesh Vs Netherlands,Netherlands,5,Tom Cooper,out,0,0,0,0,-
-T20I # 1843,Bangladesh Vs Netherlands,Netherlands,6,Scott Edwards(c) ,out,16,24,1,0,66.66
+T20I # 1843,Bangladesh Vs Netherlands,Netherlands,6,Scott Edwards(c),out,16,24,1,0,66.66
 T20I # 1843,Bangladesh Vs Netherlands,Netherlands,7,Tim Pringle,out,1,6,0,0,16.66
-T20I # 1843,Bangladesh Vs Netherlands,Netherlands,8,Logan van Beek,out,2,5,0,0,40
-T20I # 1843,Bangladesh Vs Netherlands,Netherlands,9,Shariz Ahmad,out,9,8,1,0,112.5
+T20I # 1843,Bangladesh Vs Netherlands,Netherlands,8,Logan van Beek,out,2,5,0,0,40.00
+T20I # 1843,Bangladesh Vs Netherlands,Netherlands,9,Shariz Ahmad,out,9,8,1,0,112.50
 T20I # 1843,Bangladesh Vs Netherlands,Netherlands,10,Fred Klaassen,not_out,7,6,0,0,116.66
 T20I # 1843,Bangladesh Vs Netherlands,Netherlands,11,Paul van Meekeren,out,24,14,3,1,171.42
-T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,1,Regis Chakabva ,out,8,8,0,1,100
+T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,1,Regis Chakabva,out,8,8,0,1,100.00
 T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,2,Craig Ervine(c),out,2,6,0,0,33.33
-T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,3,Sean Williams,out,1,1,0,0,100
-T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,4,Sikandar Raza,out,0,2,0,0,0
+T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,3,Sean Williams,out,1,1,0,0,100.00
+T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,4,Sikandar Raza,out,0,2,0,0,0.00
 T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,5,Wessly Madhevere,not_out,35,18,4,1,194.44
-T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,6,Milton Shumba,out,18,20,2,0,90
-T20I # 1844,Zimbabwe Vs South Africa,South Africa,1,Quinton de Kock ,not_out,47,18,8,1,261.11
-T20I # 1844,Zimbabwe Vs South Africa,South Africa,2,Temba Bavuma(c),not_out,2,2,0,0,100
+T20I # 1844,Zimbabwe Vs South Africa,Zimbabwe,6,Milton Shumba,out,18,20,2,0,90.00
+T20I # 1844,Zimbabwe Vs South Africa,South Africa,1,Quinton de Kock,not_out,47,18,8,1,261.11
+T20I # 1844,Zimbabwe Vs South Africa,South Africa,2,Temba Bavuma(c),not_out,2,2,0,0,100.00
 T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,1,Pathum Nissanka,out,40,45,2,0,88.88
-T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,2,Kusal Mendis ,out,5,6,1,0,83.33
+T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,2,Kusal Mendis,out,5,6,1,0,83.33
 T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,3,Dhananjaya de Silva,out,26,23,3,0,113.04
-T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,4,Charith Asalanka,not_out,38,25,3,2,152
-T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,5,Bhanuka Rajapaksa,out,7,5,1,0,140
-T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,6,Dasun Shanaka(c),out,3,5,0,0,60
-T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,7,Wanindu Hasaranga de Silva,out,1,4,0,0,25
-T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,8,Chamika Karunaratne,not_out,14,7,2,0,200
-T20I # 1845,Sri Lanka Vs Australia,Australia,1,David Warner,out,11,10,0,0,110
-T20I # 1845,Sri Lanka Vs Australia,Australia,2,Aaron Finch(c),not_out,31,42,0,1,73.8
-T20I # 1845,Sri Lanka Vs Australia,Australia,3,Mitchell Marsh,out,17,17,1,1,100
+T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,4,Charith Asalanka,not_out,38,25,3,2,152.00
+T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,5,Bhanuka Rajapaksa,out,7,5,1,0,140.00
+T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,6,Dasun Shanaka(c),out,3,5,0,0,60.00
+T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,7,Wanindu Hasaranga de Silva,out,1,4,0,0,25.00
+T20I # 1845,Sri Lanka Vs Australia,Sri Lanka,8,Chamika Karunaratne,not_out,14,7,2,0,200.00
+T20I # 1845,Sri Lanka Vs Australia,Australia,1,David Warner,out,11,10,0,0,110.00
+T20I # 1845,Sri Lanka Vs Australia,Australia,2,Aaron Finch(c),not_out,31,42,0,1,73.80
+T20I # 1845,Sri Lanka Vs Australia,Australia,3,Mitchell Marsh,out,17,17,1,1,100.00
 T20I # 1845,Sri Lanka Vs Australia,Australia,4,Glenn Maxwell,out,23,12,2,2,191.66
 T20I # 1845,Sri Lanka Vs Australia,Australia,5,Marcus Stoinis,not_out,59,18,4,6,327.77
-T20I # 1846,Ireland Vs England,Ireland,1,Paul Stirling,out,14,8,1,1,175
+T20I # 1846,Ireland Vs England,Ireland,1,Paul Stirling,out,14,8,1,1,175.00
 T20I # 1846,Ireland Vs England,Ireland,2,Andy Balbirnie(c),out,62,47,5,2,131.91
-T20I # 1846,Ireland Vs England,Ireland,3,Lorcan Tucker ,out,34,27,3,1,125.92
-T20I # 1846,Ireland Vs England,Ireland,4,Harry Tector,out,0,2,0,0,0
+T20I # 1846,Ireland Vs England,Ireland,3,Lorcan Tucker,out,34,27,3,1,125.92
+T20I # 1846,Ireland Vs England,Ireland,4,Harry Tector,out,0,2,0,0,0.00
 T20I # 1846,Ireland Vs England,Ireland,5,Curtis Campher,out,18,11,3,0,163.63
-T20I # 1846,Ireland Vs England,Ireland,6,George Dockrell,out,0,1,0,0,0
-T20I # 1846,Ireland Vs England,Ireland,7,Gareth Delany,not_out,12,10,1,0,120
-T20I # 1846,Ireland Vs England,Ireland,8,Mark Adair,out,4,4,0,0,100
-T20I # 1846,Ireland Vs England,Ireland,9,Barry McCarthy,out,3,3,0,0,100
-T20I # 1846,Ireland Vs England,Ireland,10,Fionn Hand,out,1,2,0,0,50
-T20I # 1846,Ireland Vs England,Ireland,11,Josh Little,out,0,1,0,0,0
-T20I # 1846,Ireland Vs England,England,1,Jos Buttler(c) ,out,0,2,0,0,0
-T20I # 1846,Ireland Vs England,England,2,Alex Hales,out,7,5,1,0,140
+T20I # 1846,Ireland Vs England,Ireland,6,George Dockrell,out,0,1,0,0,0.00
+T20I # 1846,Ireland Vs England,Ireland,7,Gareth Delany,not_out,12,10,1,0,120.00
+T20I # 1846,Ireland Vs England,Ireland,8,Mark Adair,out,4,4,0,0,100.00
+T20I # 1846,Ireland Vs England,Ireland,9,Barry McCarthy,out,3,3,0,0,100.00
+T20I # 1846,Ireland Vs England,Ireland,10,Fionn Hand,out,1,2,0,0,50.00
+T20I # 1846,Ireland Vs England,Ireland,11,Josh Little,out,0,1,0,0,0.00
+T20I # 1846,Ireland Vs England,England,1,Jos Buttler(c),out,0,2,0,0,0.00
+T20I # 1846,Ireland Vs England,England,2,Alex Hales,out,7,5,1,0,140.00
 T20I # 1846,Ireland Vs England,England,3,Dawid Malan,out,35,37,2,0,94.59
-T20I # 1846,Ireland Vs England,England,4,Ben Stokes,out,6,8,0,0,75
+T20I # 1846,Ireland Vs England,England,4,Ben Stokes,out,6,8,0,0,75.00
 T20I # 1846,Ireland Vs England,England,5,Harry Brook,out,18,21,1,0,85.71
-T20I # 1846,Ireland Vs England,England,6,Moeen Ali,not_out,24,12,3,1,200
-T20I # 1846,Ireland Vs England,England,7,Liam Livingstone,not_out,1,2,0,0,50
+T20I # 1846,Ireland Vs England,England,6,Moeen Ali,not_out,24,12,3,1,200.00
+T20I # 1846,Ireland Vs England,England,7,Liam Livingstone,not_out,1,2,0,0,50.00
 T20I # 1847,South Africa Vs Bangladesh,South Africa,1,Temba Bavuma(c),out,2,6,0,0,33.33
-T20I # 1847,South Africa Vs Bangladesh,South Africa,2,Quinton de Kock ,out,63,38,7,3,165.78
+T20I # 1847,South Africa Vs Bangladesh,South Africa,2,Quinton de Kock,out,63,38,7,3,165.78
 T20I # 1847,South Africa Vs Bangladesh,South Africa,3,Rilee Rossouw,out,109,56,7,8,194.64
-T20I # 1847,South Africa Vs Bangladesh,South Africa,4,Tristan Stubbs,out,7,7,1,0,100
-T20I # 1847,South Africa Vs Bangladesh,South Africa,5,Aiden Markram,out,10,11,1,0,90.9
-T20I # 1847,South Africa Vs Bangladesh,South Africa,6,David Miller,not_out,2,4,0,0,50
-T20I # 1847,South Africa Vs Bangladesh,South Africa,7,Wayne Parnell,not_out,0,2,0,0,0
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,out,9,9,1,0,100
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,2,Soumya Sarkar,out,15,6,0,2,250
+T20I # 1847,South Africa Vs Bangladesh,South Africa,4,Tristan Stubbs,out,7,7,1,0,100.00
+T20I # 1847,South Africa Vs Bangladesh,South Africa,5,Aiden Markram,out,10,11,1,0,90.90
+T20I # 1847,South Africa Vs Bangladesh,South Africa,6,David Miller,not_out,2,4,0,0,50.00
+T20I # 1847,South Africa Vs Bangladesh,South Africa,7,Wayne Parnell,not_out,0,2,0,0,0.00
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,out,9,9,1,0,100.00
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,2,Soumya Sarkar,out,15,6,0,2,250.00
 T20I # 1847,South Africa Vs Bangladesh,Bangladesh,3,Litton Das,out,34,31,1,1,109.67
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,4,Shakib Al Hasan(c),out,1,4,0,0,25
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,5,Afif Hossain,out,1,5,0,0,20
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,4,Shakib Al Hasan(c),out,1,4,0,0,25.00
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,5,Afif Hossain,out,1,5,0,0,20.00
 T20I # 1847,South Africa Vs Bangladesh,Bangladesh,6,Mehidy Hasan Miraz,out,11,13,0,0,84.61
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,out,0,3,0,0,0
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,8,Nurul Hasan ,out,2,6,0,0,33.33
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,out,0,3,0,0,0.00
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,8,Nurul Hasan,out,2,6,0,0,33.33
 T20I # 1847,South Africa Vs Bangladesh,Bangladesh,9,Taskin Ahmed,out,10,17,1,0,58.82
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,10,Hasan Mahmud,out,0,2,0,0,0
-T20I # 1847,South Africa Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,not_out,9,3,0,1,300
-T20I # 1848,India Vs Netherlands,India,1,KL Rahul,out,9,12,1,0,75
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,10,Hasan Mahmud,out,0,2,0,0,0.00
+T20I # 1847,South Africa Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,not_out,9,3,0,1,300.00
+T20I # 1848,India Vs Netherlands,India,1,KL Rahul,out,9,12,1,0,75.00
 T20I # 1848,India Vs Netherlands,India,2,Rohit Sharma(c),out,53,39,4,3,135.89
-T20I # 1848,India Vs Netherlands,India,3,Virat Kohli,not_out,62,44,3,2,140.9
-T20I # 1848,India Vs Netherlands,India,4,Suryakumar Yadav,not_out,51,25,7,1,204
+T20I # 1848,India Vs Netherlands,India,3,Virat Kohli,not_out,62,44,3,2,140.90
+T20I # 1848,India Vs Netherlands,India,4,Suryakumar Yadav,not_out,51,25,7,1,204.00
 T20I # 1848,India Vs Netherlands,Netherlands,1,Vikramjit Singh,out,1,9,0,0,11.11
-T20I # 1848,India Vs Netherlands,Netherlands,2,Max O'Dowd,out,16,10,3,0,160
+T20I # 1848,India Vs Netherlands,Netherlands,2,Max O'Dowd,out,16,10,3,0,160.00
 T20I # 1848,India Vs Netherlands,Netherlands,3,Bas de Leede,out,16,23,0,0,69.56
 T20I # 1848,India Vs Netherlands,Netherlands,4,Colin Ackermann,out,17,21,1,0,80.95
-T20I # 1848,India Vs Netherlands,Netherlands,5,Tom Cooper,out,9,12,0,0,75
-T20I # 1848,India Vs Netherlands,Netherlands,6,Scott Edwards(c) ,out,5,8,0,0,62.5
+T20I # 1848,India Vs Netherlands,Netherlands,5,Tom Cooper,out,9,12,0,0,75.00
+T20I # 1848,India Vs Netherlands,Netherlands,6,Scott Edwards(c),out,5,8,0,0,62.50
 T20I # 1848,India Vs Netherlands,Netherlands,7,Tim Pringle,out,20,15,1,1,133.33
-T20I # 1848,India Vs Netherlands,Netherlands,8,Logan van Beek,out,3,5,0,0,60
+T20I # 1848,India Vs Netherlands,Netherlands,8,Logan van Beek,out,3,5,0,0,60.00
 T20I # 1848,India Vs Netherlands,Netherlands,9,Shariz Ahmad,not_out,16,11,2,0,145.45
-T20I # 1848,India Vs Netherlands,Netherlands,10,Fred Klaassen,out,0,1,0,0,0
+T20I # 1848,India Vs Netherlands,Netherlands,10,Fred Klaassen,out,0,1,0,0,0.00
 T20I # 1848,India Vs Netherlands,Netherlands,11,Paul van Meekeren,not_out,14,6,3,0,233.33
 T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,1,Wessly Madhevere,out,17,13,3,0,130.76
-T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,2,Craig Ervine(c),out,19,19,2,0,100
-T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,3,Milton Shumba,out,8,10,1,0,80
+T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,2,Craig Ervine(c),out,19,19,2,0,100.00
+T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,3,Milton Shumba,out,8,10,1,0,80.00
 T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,4,Sean Williams,out,31,28,3,0,110.71
 T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,5,Sikandar Raza,out,9,16,1,0,56.25
-T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,6,Regis Chakabva ,out,0,1,0,0,0
+T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,6,Regis Chakabva,out,0,1,0,0,0.00
 T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,7,Ryan Burl,not_out,10,15,0,0,66.66
-T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,8,Luke Jongwe,out,0,1,0,0,0
+T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,8,Luke Jongwe,out,0,1,0,0,0.00
 T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,9,Brad Evans,out,19,15,0,1,126.66
-T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,10,Richard Ngarava,not_out,3,2,0,0,150
-T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,1,Mohammad Rizwan ,out,14,16,1,1,87.5
+T20I # 1849,Zimbabwe Vs Pakistan,Zimbabwe,10,Richard Ngarava,not_out,3,2,0,0,150.00
+T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,1,Mohammad Rizwan,out,14,16,1,1,87.50
 T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,2,Babar Azam(c),out,4,9,1,0,44.44
 T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,3,Shan Masood,out,44,38,3,0,115.78
-T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,4,Iftikhar Ahmed,out,5,10,1,0,50
+T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,4,Iftikhar Ahmed,out,5,10,1,0,50.00
 T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,5,Shadab Khan,out,17,14,0,1,121.42
-T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,6,Haider Ali,out,0,1,0,0,0
+T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,6,Haider Ali,out,0,1,0,0,0.00
 T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,7,Mohammad Nawaz,out,22,18,1,1,122.22
-T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,8,Mohammad Wasim,not_out,12,13,2,0,92.3
-T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,out,1,1,0,0,100
+T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,8,Mohammad Wasim,not_out,12,13,2,0,92.30
+T20I # 1849,Zimbabwe Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,out,1,1,0,0,100.00
 T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,1,Finn Allen,out,1,3,0,0,33.33
-T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,2,Devon Conway ,out,1,4,0,0,25
+T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,2,Devon Conway,out,1,4,0,0,25.00
 T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,3,Kane Williamson(c),out,8,13,1,0,61.53
-T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,4,Glenn Phillips,out,104,64,10,4,162.5
+T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,4,Glenn Phillips,out,104,64,10,4,162.50
 T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,5,Daryl Mitchell,out,22,24,0,0,91.66
-T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,6,James Neesham,out,5,8,0,0,62.5
-T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,7,Mitchell Santner,not_out,11,5,0,1,220
-T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,8,Ish Sodhi,out,1,1,0,0,100
-T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,9,Tim Southee,not_out,4,1,1,0,400
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,0,5,0,0,0
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,2,Kusal Mendis ,out,4,3,1,0,133.33
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,out,0,3,0,0,0
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,out,4,8,0,0,50
+T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,6,James Neesham,out,5,8,0,0,62.50
+T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,7,Mitchell Santner,not_out,11,5,0,1,220.00
+T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,8,Ish Sodhi,out,1,1,0,0,100.00
+T20I # 1850,New Zealand Vs Sri Lanka,New Zealand,9,Tim Southee,not_out,4,1,1,0,400.00
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,0,5,0,0,0.00
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,2,Kusal Mendis,out,4,3,1,0,133.33
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,out,0,3,0,0,0.00
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,out,4,8,0,0,50.00
 T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,out,34,22,3,2,154.54
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,6,Chamika Karunaratne,out,3,8,0,0,37.5
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,6,Chamika Karunaratne,out,3,8,0,0,37.50
 T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,7,Dasun Shanaka(c),out,35,32,4,1,109.37
 T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,8,Wanindu Hasaranga de Silva,out,4,6,1,0,66.66
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana,out,0,3,0,0,0
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana,out,0,3,0,0,0.00
 T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,10,Kasun Rajitha,not_out,8,21,0,0,38.09
-T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,11,Lahiru Kumara,out,4,5,1,0,80
+T20I # 1850,New Zealand Vs Sri Lanka,Sri Lanka,11,Lahiru Kumara,out,4,5,1,0,80.00
 T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,1,Najmul Hossain Shanto,out,71,55,7,1,129.09
-T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,2,Soumya Sarkar,out,0,2,0,0,0
+T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,2,Soumya Sarkar,out,0,2,0,0,0.00
 T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,3,Litton Das,out,14,12,3,0,116.66
-T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,4,Shakib Al Hasan(c),out,23,20,1,0,115
+T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,4,Shakib Al Hasan(c),out,23,20,1,0,115.00
 T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,5,Afif Hossain,out,29,19,1,1,152.63
-T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,6,Mosaddek Hossain,out,7,10,0,0,70
-T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,7,Nurul Hasan ,out,1,1,0,0,100
-T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,8,Yasir Ali,not_out,1,1,0,0,100
+T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,6,Mosaddek Hossain,out,7,10,0,0,70.00
+T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,7,Nurul Hasan,out,1,1,0,0,100.00
+T20I # 1851,Bangladesh Vs Zimbabwe,Bangladesh,8,Yasir Ali,not_out,1,1,0,0,100.00
 T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,out,4,3,1,0,133.33
 T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),out,8,7,2,0,114.28
 T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,3,Milton Shumba,out,8,15,1,0,53.33
 T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,4,Sean Williams,out,64,42,8,0,152.38
-T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,out,0,3,0,0,0
-T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,6,Regis Chakabva ,out,15,19,0,0,78.94
-T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,7,Ryan Burl,not_out,27,25,2,1,108
-T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,8,Brad Evans,out,2,2,0,0,100
-T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,9,Richard Ngarava,out,6,3,0,1,200
-T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,10,Blessing Muzarabani,not_out,0,2,0,0,0
+T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,out,0,3,0,0,0.00
+T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,6,Regis Chakabva,out,15,19,0,0,78.94
+T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,7,Ryan Burl,not_out,27,25,2,1,108.00
+T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,8,Brad Evans,out,2,2,0,0,100.00
+T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,9,Richard Ngarava,out,6,3,0,1,200.00
+T20I # 1851,Bangladesh Vs Zimbabwe,Zimbabwe,10,Blessing Muzarabani,not_out,0,2,0,0,0.00
 T20I # 1852,Netherlands Vs Pakistan,Netherlands,1,Stephan Myburgh,out,6,11,1,0,54.54
 T20I # 1852,Netherlands Vs Pakistan,Netherlands,2,Max O'Dowd,out,8,13,0,0,61.53
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,3,Bas de Leede,not_out,6,16,1,0,37.5
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,4,Tom Cooper,out,1,2,0,0,50
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,5,Colin Ackermann,out,27,27,2,0,100
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,6,Scott Edwards(c) ,out,15,20,1,0,75
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,3,Bas de Leede,not_out,6,16,1,0,37.50
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,4,Tom Cooper,out,1,2,0,0,50.00
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,5,Colin Ackermann,out,27,27,2,0,100.00
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,6,Scott Edwards(c),out,15,20,1,0,75.00
 T20I # 1852,Netherlands Vs Pakistan,Netherlands,7,Roelof van der Merwe,out,5,6,0,0,83.33
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,8,Tim Pringle,out,5,8,0,0,62.5
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,8,Tim Pringle,out,5,8,0,0,62.50
 T20I # 1852,Netherlands Vs Pakistan,Netherlands,9,Logan van Beek,not_out,6,9,0,0,66.66
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,10,Fred Klaassen,out,0,1,0,0,0
-T20I # 1852,Netherlands Vs Pakistan,Netherlands,11,Paul van Meekeren,out,7,7,0,0,100
-T20I # 1852,Netherlands Vs Pakistan,Pakistan,1,Mohammad Rizwan ,out,49,39,5,0,125.64
-T20I # 1852,Netherlands Vs Pakistan,Pakistan,2,Babar Azam(c),out,4,5,1,0,80
-T20I # 1852,Netherlands Vs Pakistan,Pakistan,3,Fakhar Zaman,out,20,16,3,0,125
-T20I # 1852,Netherlands Vs Pakistan,Pakistan,4,Shan Masood,out,12,16,0,0,75
-T20I # 1852,Netherlands Vs Pakistan,Pakistan,5,Iftikhar Ahmed,not_out,6,5,0,0,120
-T20I # 1852,Netherlands Vs Pakistan,Pakistan,6,Shadab Khan,not_out,4,2,1,0,200
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,10,Fred Klaassen,out,0,1,0,0,0.00
+T20I # 1852,Netherlands Vs Pakistan,Netherlands,11,Paul van Meekeren,out,7,7,0,0,100.00
+T20I # 1852,Netherlands Vs Pakistan,Pakistan,1,Mohammad Rizwan,out,49,39,5,0,125.64
+T20I # 1852,Netherlands Vs Pakistan,Pakistan,2,Babar Azam(c),out,4,5,1,0,80.00
+T20I # 1852,Netherlands Vs Pakistan,Pakistan,3,Fakhar Zaman,out,20,16,3,0,125.00
+T20I # 1852,Netherlands Vs Pakistan,Pakistan,4,Shan Masood,out,12,16,0,0,75.00
+T20I # 1852,Netherlands Vs Pakistan,Pakistan,5,Iftikhar Ahmed,not_out,6,5,0,0,120.00
+T20I # 1852,Netherlands Vs Pakistan,Pakistan,6,Shadab Khan,not_out,4,2,1,0,200.00
 T20I # 1853,India Vs South Africa,India,1,KL Rahul,out,9,14,0,1,64.28
 T20I # 1853,India Vs South Africa,India,2,Rohit Sharma(c),out,15,14,1,1,107.14
 T20I # 1853,India Vs South Africa,India,3,Virat Kohli,out,12,11,2,0,109.09
-T20I # 1853,India Vs South Africa,India,4,Suryakumar Yadav,out,68,40,6,3,170
-T20I # 1853,India Vs South Africa,India,5,Deepak Hooda,out,0,3,0,0,0
+T20I # 1853,India Vs South Africa,India,4,Suryakumar Yadav,out,68,40,6,3,170.00
+T20I # 1853,India Vs South Africa,India,5,Deepak Hooda,out,0,3,0,0,0.00
 T20I # 1853,India Vs South Africa,India,6,Hardik Pandya,out,2,3,0,0,66.66
-T20I # 1853,India Vs South Africa,India,7,Dinesh Karthik ,out,6,15,0,0,40
+T20I # 1853,India Vs South Africa,India,7,Dinesh Karthik,out,6,15,0,0,40.00
 T20I # 1853,India Vs South Africa,India,8,Ravichandran Ashwin,out,7,11,0,0,63.63
 T20I # 1853,India Vs South Africa,India,9,Bhuvneshwar Kumar,not_out,4,6,0,0,66.66
-T20I # 1853,India Vs South Africa,India,10,Mohammed Shami,out,0,2,0,0,0
-T20I # 1853,India Vs South Africa,India,11,Arshdeep Singh,not_out,2,1,0,0,200
-T20I # 1853,India Vs South Africa,South Africa,1,Quinton de Kock ,out,1,3,0,0,33.33
+T20I # 1853,India Vs South Africa,India,10,Mohammed Shami,out,0,2,0,0,0.00
+T20I # 1853,India Vs South Africa,India,11,Arshdeep Singh,not_out,2,1,0,0,200.00
+T20I # 1853,India Vs South Africa,South Africa,1,Quinton de Kock,out,1,3,0,0,33.33
 T20I # 1853,India Vs South Africa,South Africa,2,Temba Bavuma(c),out,10,15,0,1,66.66
-T20I # 1853,India Vs South Africa,South Africa,3,Rilee Rossouw,out,0,2,0,0,0
+T20I # 1853,India Vs South Africa,South Africa,3,Rilee Rossouw,out,0,2,0,0,0.00
 T20I # 1853,India Vs South Africa,South Africa,4,Aiden Markram,out,52,41,6,1,126.82
 T20I # 1853,India Vs South Africa,South Africa,5,David Miller,not_out,59,46,4,3,128.26
-T20I # 1853,India Vs South Africa,South Africa,6,Tristan Stubbs,out,6,6,1,0,100
-T20I # 1853,India Vs South Africa,South Africa,7,Wayne Parnell,not_out,2,5,0,0,40
+T20I # 1853,India Vs South Africa,South Africa,6,Tristan Stubbs,out,6,6,1,0,100.00
+T20I # 1853,India Vs South Africa,South Africa,7,Wayne Parnell,not_out,2,5,0,0,40.00
 T20I # 1855,Australia Vs Ireland,Australia,1,David Warner,out,3,7,0,0,42.85
 T20I # 1855,Australia Vs Ireland,Australia,2,Aaron Finch(c),out,63,44,5,3,143.18
 T20I # 1855,Australia Vs Ireland,Australia,3,Mitchell Marsh,out,28,22,2,2,127.27
 T20I # 1855,Australia Vs Ireland,Australia,4,Glenn Maxwell,out,13,9,0,1,144.44
-T20I # 1855,Australia Vs Ireland,Australia,5,Marcus Stoinis,out,35,25,3,1,140
-T20I # 1855,Australia Vs Ireland,Australia,6,Tim David,not_out,15,10,2,0,150
-T20I # 1855,Australia Vs Ireland,Australia,7,Matthew Wade ,not_out,7,3,1,0,233.33
+T20I # 1855,Australia Vs Ireland,Australia,5,Marcus Stoinis,out,35,25,3,1,140.00
+T20I # 1855,Australia Vs Ireland,Australia,6,Tim David,not_out,15,10,2,0,150.00
+T20I # 1855,Australia Vs Ireland,Australia,7,Matthew Wade,not_out,7,3,1,0,233.33
 T20I # 1855,Australia Vs Ireland,Ireland,1,Paul Stirling,out,11,7,1,1,157.14
 T20I # 1855,Australia Vs Ireland,Ireland,2,Andy Balbirnie(c),out,6,7,0,1,85.71
-T20I # 1855,Australia Vs Ireland,Ireland,3,Lorcan Tucker ,not_out,71,48,9,1,147.91
-T20I # 1855,Australia Vs Ireland,Ireland,4,Harry Tector,out,6,4,1,0,150
-T20I # 1855,Australia Vs Ireland,Ireland,5,Curtis Campher,out,0,1,0,0,0
-T20I # 1855,Australia Vs Ireland,Ireland,6,George Dockrell,out,0,4,0,0,0
-T20I # 1855,Australia Vs Ireland,Ireland,7,Gareth Delany,out,14,10,2,0,140
-T20I # 1855,Australia Vs Ireland,Ireland,8,Mark Adair,out,11,11,1,0,100
-T20I # 1855,Australia Vs Ireland,Ireland,9,Fionn Hand,out,6,6,1,0,100
+T20I # 1855,Australia Vs Ireland,Ireland,3,Lorcan Tucker,not_out,71,48,9,1,147.91
+T20I # 1855,Australia Vs Ireland,Ireland,4,Harry Tector,out,6,4,1,0,150.00
+T20I # 1855,Australia Vs Ireland,Ireland,5,Curtis Campher,out,0,1,0,0,0.00
+T20I # 1855,Australia Vs Ireland,Ireland,6,George Dockrell,out,0,4,0,0,0.00
+T20I # 1855,Australia Vs Ireland,Ireland,7,Gareth Delany,out,14,10,2,0,140.00
+T20I # 1855,Australia Vs Ireland,Ireland,8,Mark Adair,out,11,11,1,0,100.00
+T20I # 1855,Australia Vs Ireland,Ireland,9,Fionn Hand,out,6,6,1,0,100.00
 T20I # 1855,Australia Vs Ireland,Ireland,10,Barry McCarthy,out,3,7,0,0,42.85
-T20I # 1855,Australia Vs Ireland,Ireland,11,Josh Little,out,1,5,0,0,20
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,1,Rahmanullah Gurbaz ,out,28,24,2,2,116.66
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,2,Usman Ghani,out,27,27,2,1,100
+T20I # 1855,Australia Vs Ireland,Ireland,11,Josh Little,out,1,5,0,0,20.00
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,1,Rahmanullah Gurbaz,out,28,24,2,2,116.66
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,2,Usman Ghani,out,27,27,2,1,100.00
 T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,3,Ibrahim Zadran,out,22,18,1,1,122.22
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,4,Najibullah Zadran,out,18,16,1,0,112.5
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,4,Najibullah Zadran,out,18,16,1,0,112.50
 T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,5,Gulbadin Naib,out,12,14,0,0,85.71
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,6,Mohammad Nabi(c),out,13,8,1,0,162.5
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,7,Rashid Khan,out,9,8,1,0,112.5
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,8,Azmatullah Omarzai,not_out,3,4,0,0,75
-T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,9,Mujeeb Ur Rahman,out,1,2,0,0,50
-T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,10,10,2,0,100
-T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,2,Kusal Mendis ,out,25,27,2,1,92.59
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,6,Mohammad Nabi(c),out,13,8,1,0,162.50
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,7,Rashid Khan,out,9,8,1,0,112.50
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,8,Azmatullah Omarzai,not_out,3,4,0,0,75.00
+T20I # 1856,Afghanistan Vs Sri Lanka,Afghanistan,9,Mujeeb Ur Rahman,out,1,2,0,0,50.00
+T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,out,10,10,2,0,100.00
+T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,2,Kusal Mendis,out,25,27,2,1,92.59
 T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,not_out,66,42,6,2,157.14
 T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,out,19,18,1,0,105.55
 T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,out,18,14,3,0,128.57
 T20I # 1856,Afghanistan Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),not_out,0,0,0,0,-
-T20I # 1858,England Vs New Zealand,England,1,Jos Buttler(c) ,out,73,47,7,2,155.31
-T20I # 1858,England Vs New Zealand,England,2,Alex Hales,out,52,40,7,1,130
+T20I # 1858,England Vs New Zealand,England,1,Jos Buttler(c),out,73,47,7,2,155.31
+T20I # 1858,England Vs New Zealand,England,2,Alex Hales,out,52,40,7,1,130.00
 T20I # 1858,England Vs New Zealand,England,3,Moeen Ali,out,5,6,0,0,83.33
 T20I # 1858,England Vs New Zealand,England,4,Liam Livingstone,out,20,14,1,1,142.85
 T20I # 1858,England Vs New Zealand,England,5,Harry Brook,out,7,3,0,1,233.33
 T20I # 1858,England Vs New Zealand,England,6,Ben Stokes,out,8,7,0,0,114.28
-T20I # 1858,England Vs New Zealand,England,7,Sam Curran,not_out,6,3,0,1,200
-T20I # 1858,England Vs New Zealand,England,8,Dawid Malan,not_out,3,1,0,0,300
+T20I # 1858,England Vs New Zealand,England,7,Sam Curran,not_out,6,3,0,1,200.00
+T20I # 1858,England Vs New Zealand,England,8,Dawid Malan,not_out,3,1,0,0,300.00
 T20I # 1858,England Vs New Zealand,New Zealand,1,Finn Allen,out,16,11,0,1,145.45
-T20I # 1858,England Vs New Zealand,New Zealand,2,Devon Conway ,out,3,9,0,0,33.33
-T20I # 1858,England Vs New Zealand,New Zealand,3,Kane Williamson(c),out,40,40,3,0,100
+T20I # 1858,England Vs New Zealand,New Zealand,2,Devon Conway,out,3,9,0,0,33.33
+T20I # 1858,England Vs New Zealand,New Zealand,3,Kane Williamson(c),out,40,40,3,0,100.00
 T20I # 1858,England Vs New Zealand,New Zealand,4,Glenn Phillips,out,62,36,4,3,172.22
-T20I # 1858,England Vs New Zealand,New Zealand,5,James Neesham,out,6,3,1,0,200
-T20I # 1858,England Vs New Zealand,New Zealand,6,Daryl Mitchell,out,3,5,0,0,60
-T20I # 1858,England Vs New Zealand,New Zealand,7,Mitchell Santner,not_out,16,10,0,1,160
-T20I # 1858,England Vs New Zealand,New Zealand,8,Ish Sodhi,not_out,6,6,0,0,100
-T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,1,Wessly Madhevere,out,1,5,0,0,20
-T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,2,Craig Ervine(c),out,3,12,0,0,25
-T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,3,Regis Chakabva ,out,5,16,1,0,31.25
+T20I # 1858,England Vs New Zealand,New Zealand,5,James Neesham,out,6,3,1,0,200.00
+T20I # 1858,England Vs New Zealand,New Zealand,6,Daryl Mitchell,out,3,5,0,0,60.00
+T20I # 1858,England Vs New Zealand,New Zealand,7,Mitchell Santner,not_out,16,10,0,1,160.00
+T20I # 1858,England Vs New Zealand,New Zealand,8,Ish Sodhi,not_out,6,6,0,0,100.00
+T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,1,Wessly Madhevere,out,1,5,0,0,20.00
+T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,2,Craig Ervine(c),out,3,12,0,0,25.00
+T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,3,Regis Chakabva,out,5,16,1,0,31.25
 T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,4,Sean Williams,out,28,23,3,0,121.73
 T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,5,Sikandar Raza,out,40,24,3,3,166.66
 T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,6,Milton Shumba,out,2,3,0,0,66.66
 T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,7,Ryan Burl,out,2,7,0,0,28.57
-T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,8,Luke Jongwe,out,6,8,0,0,75
+T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,8,Luke Jongwe,out,6,8,0,0,75.00
 T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,9,Richard Ngarava,out,9,7,0,1,128.57
 T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,10,Tendai Chatara,not_out,6,7,0,0,85.71
-T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,11,Blessing Muzarabani,out,1,4,0,0,25
+T20I # 1859,Zimbabwe Vs Netherlands,Zimbabwe,11,Blessing Muzarabani,out,1,4,0,0,25.00
 T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,1,Stephan Myburgh,out,8,7,0,1,114.28
 T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,2,Max O'Dowd,out,52,47,8,1,110.63
 T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,3,Tom Cooper,out,32,29,2,1,110.34
-T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,4,Colin Ackermann,out,1,5,0,0,20
-T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,5,Bas de Leede,not_out,12,12,2,0,100
-T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,6,Scott Edwards(c) ,out,5,6,1,0,83.33
-T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,7,Roelof van der Merwe,not_out,0,3,0,0,0
+T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,4,Colin Ackermann,out,1,5,0,0,20.00
+T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,5,Bas de Leede,not_out,12,12,2,0,100.00
+T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,6,Scott Edwards(c),out,5,6,1,0,83.33
+T20I # 1859,Zimbabwe Vs Netherlands,Netherlands,7,Roelof van der Merwe,not_out,0,3,0,0,0.00
 T20I # 1860,India Vs Bangladesh,India,1,KL Rahul,out,50,32,3,4,156.25
-T20I # 1860,India Vs Bangladesh,India,2,Rohit Sharma(c),out,2,8,0,0,25
+T20I # 1860,India Vs Bangladesh,India,2,Rohit Sharma(c),out,2,8,0,0,25.00
 T20I # 1860,India Vs Bangladesh,India,3,Virat Kohli,not_out,64,44,8,1,145.45
-T20I # 1860,India Vs Bangladesh,India,4,Suryakumar Yadav,out,30,16,4,0,187.5
+T20I # 1860,India Vs Bangladesh,India,4,Suryakumar Yadav,out,30,16,4,0,187.50
 T20I # 1860,India Vs Bangladesh,India,5,Hardik Pandya,out,5,6,0,0,83.33
-T20I # 1860,India Vs Bangladesh,India,6,Dinesh Karthik ,out,7,5,1,0,140
+T20I # 1860,India Vs Bangladesh,India,6,Dinesh Karthik,out,7,5,1,0,140.00
 T20I # 1860,India Vs Bangladesh,India,7,Axar Patel,out,7,6,1,0,116.66
 T20I # 1860,India Vs Bangladesh,India,8,Ravichandran Ashwin,not_out,13,6,1,1,216.66
-T20I # 1860,India Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,out,21,25,1,1,84
+T20I # 1860,India Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,out,21,25,1,1,84.00
 T20I # 1860,India Vs Bangladesh,Bangladesh,2,Litton Das,out,60,27,7,3,222.22
 T20I # 1860,India Vs Bangladesh,Bangladesh,3,Shakib Al Hasan(c),out,13,12,2,0,108.33
-T20I # 1860,India Vs Bangladesh,Bangladesh,4,Afif Hossain,out,3,5,0,0,60
+T20I # 1860,India Vs Bangladesh,Bangladesh,4,Afif Hossain,out,3,5,0,0,60.00
 T20I # 1860,India Vs Bangladesh,Bangladesh,5,Yasir Ali,out,1,3,0,0,33.33
-T20I # 1860,India Vs Bangladesh,Bangladesh,6,Nurul Hasan ,not_out,25,14,2,1,178.57
-T20I # 1860,India Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,out,6,3,0,1,200
+T20I # 1860,India Vs Bangladesh,Bangladesh,6,Nurul Hasan,not_out,25,14,2,1,178.57
+T20I # 1860,India Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,out,6,3,0,1,200.00
 T20I # 1860,India Vs Bangladesh,Bangladesh,8,Taskin Ahmed,not_out,12,7,1,1,171.42
-T20I # 1861,Pakistan Vs South Africa,Pakistan,1,Mohammad Rizwan ,out,4,4,1,0,100
-T20I # 1861,Pakistan Vs South Africa,Pakistan,2,Babar Azam(c),out,6,15,0,0,40
+T20I # 1861,Pakistan Vs South Africa,Pakistan,1,Mohammad Rizwan,out,4,4,1,0,100.00
+T20I # 1861,Pakistan Vs South Africa,Pakistan,2,Babar Azam(c),out,6,15,0,0,40.00
 T20I # 1861,Pakistan Vs South Africa,Pakistan,3,Mohammad Haris,out,28,11,2,3,254.54
 T20I # 1861,Pakistan Vs South Africa,Pakistan,4,Shan Masood,out,2,6,0,0,33.33
 T20I # 1861,Pakistan Vs South Africa,Pakistan,5,Iftikhar Ahmed,out,51,35,3,2,145.71
 T20I # 1861,Pakistan Vs South Africa,Pakistan,6,Mohammad Nawaz,out,28,22,4,1,127.27
 T20I # 1861,Pakistan Vs South Africa,Pakistan,7,Shadab Khan,out,52,22,3,4,236.36
-T20I # 1861,Pakistan Vs South Africa,Pakistan,8,Mohammad Wasim,out,0,1,0,0,0
+T20I # 1861,Pakistan Vs South Africa,Pakistan,8,Mohammad Wasim,out,0,1,0,0,0.00
 T20I # 1861,Pakistan Vs South Africa,Pakistan,9,Naseem Shah,not_out,5,3,0,0,166.66
-T20I # 1861,Pakistan Vs South Africa,Pakistan,10,Haris Rauf,out,3,2,0,0,150
+T20I # 1861,Pakistan Vs South Africa,Pakistan,10,Haris Rauf,out,3,2,0,0,150.00
 T20I # 1861,Pakistan Vs South Africa,South Africa,1,Temba Bavuma(c),out,36,19,4,1,189.47
-T20I # 1861,Pakistan Vs South Africa,South Africa,2,Quinton de Kock ,out,0,5,0,0,0
+T20I # 1861,Pakistan Vs South Africa,South Africa,2,Quinton de Kock,out,0,5,0,0,0.00
 T20I # 1861,Pakistan Vs South Africa,South Africa,3,Rilee Rossouw,out,7,6,0,1,116.66
 T20I # 1861,Pakistan Vs South Africa,South Africa,4,Aiden Markram,out,20,14,4,0,142.85
 T20I # 1861,Pakistan Vs South Africa,South Africa,5,Heinrich Klaasen,out,15,9,3,0,166.66
-T20I # 1861,Pakistan Vs South Africa,South Africa,6,Tristan Stubbs,out,18,18,0,1,100
-T20I # 1861,Pakistan Vs South Africa,South Africa,7,Wayne Parnell,out,3,4,0,0,75
-T20I # 1861,Pakistan Vs South Africa,South Africa,8,Kagiso Rabada,out,1,2,0,0,50
-T20I # 1861,Pakistan Vs South Africa,South Africa,9,Anrich Nortje,out,1,5,0,0,20
-T20I # 1861,Pakistan Vs South Africa,South Africa,10,Lungi Ngidi,not_out,4,1,1,0,400
-T20I # 1861,Pakistan Vs South Africa,South Africa,11,Tabraiz Shamsi,not_out,1,1,0,0,100
+T20I # 1861,Pakistan Vs South Africa,South Africa,6,Tristan Stubbs,out,18,18,0,1,100.00
+T20I # 1861,Pakistan Vs South Africa,South Africa,7,Wayne Parnell,out,3,4,0,0,75.00
+T20I # 1861,Pakistan Vs South Africa,South Africa,8,Kagiso Rabada,out,1,2,0,0,50.00
+T20I # 1861,Pakistan Vs South Africa,South Africa,9,Anrich Nortje,out,1,5,0,0,20.00
+T20I # 1861,Pakistan Vs South Africa,South Africa,10,Lungi Ngidi,not_out,4,1,1,0,400.00
+T20I # 1861,Pakistan Vs South Africa,South Africa,11,Tabraiz Shamsi,not_out,1,1,0,0,100.00
 T20I # 1862,New Zealand Vs Ireland,New Zealand,1,Finn Allen,out,32,18,5,1,177.77
-T20I # 1862,New Zealand Vs Ireland,New Zealand,2,Devon Conway ,out,28,33,2,0,84.84
+T20I # 1862,New Zealand Vs Ireland,New Zealand,2,Devon Conway,out,28,33,2,0,84.84
 T20I # 1862,New Zealand Vs Ireland,New Zealand,3,Kane Williamson(c),out,61,35,5,3,174.28
 T20I # 1862,New Zealand Vs Ireland,New Zealand,4,Glenn Phillips,out,17,9,2,1,188.88
 T20I # 1862,New Zealand Vs Ireland,New Zealand,5,Daryl Mitchell,not_out,31,21,2,0,147.61
-T20I # 1862,New Zealand Vs Ireland,New Zealand,6,James Neesham,out,0,1,0,0,0
-T20I # 1862,New Zealand Vs Ireland,New Zealand,7,Mitchell Santner,out,0,1,0,0,0
-T20I # 1862,New Zealand Vs Ireland,New Zealand,8,Tim Southee,not_out,1,2,0,0,50
+T20I # 1862,New Zealand Vs Ireland,New Zealand,6,James Neesham,out,0,1,0,0,0.00
+T20I # 1862,New Zealand Vs Ireland,New Zealand,7,Mitchell Santner,out,0,1,0,0,0.00
+T20I # 1862,New Zealand Vs Ireland,New Zealand,8,Tim Southee,not_out,1,2,0,0,50.00
 T20I # 1862,New Zealand Vs Ireland,Ireland,1,Paul Stirling,out,37,27,3,1,137.03
-T20I # 1862,New Zealand Vs Ireland,Ireland,2,Andy Balbirnie(c),out,30,25,0,3,120
-T20I # 1862,New Zealand Vs Ireland,Ireland,3,Lorcan Tucker ,out,13,14,0,0,92.85
+T20I # 1862,New Zealand Vs Ireland,Ireland,2,Andy Balbirnie(c),out,30,25,0,3,120.00
+T20I # 1862,New Zealand Vs Ireland,Ireland,3,Lorcan Tucker,out,13,14,0,0,92.85
 T20I # 1862,New Zealand Vs Ireland,Ireland,4,Harry Tector,out,2,7,0,0,28.57
-T20I # 1862,New Zealand Vs Ireland,Ireland,5,Gareth Delany,out,10,8,2,0,125
+T20I # 1862,New Zealand Vs Ireland,Ireland,5,Gareth Delany,out,10,8,2,0,125.00
 T20I # 1862,New Zealand Vs Ireland,Ireland,6,George Dockrell,out,23,15,3,0,153.33
-T20I # 1862,New Zealand Vs Ireland,Ireland,7,Curtis Campher,out,7,7,1,0,100
+T20I # 1862,New Zealand Vs Ireland,Ireland,7,Curtis Campher,out,7,7,1,0,100.00
 T20I # 1862,New Zealand Vs Ireland,Ireland,8,Fionn Hand,out,5,3,1,0,166.66
-T20I # 1862,New Zealand Vs Ireland,Ireland,9,Mark Adair,out,4,5,0,0,80
-T20I # 1862,New Zealand Vs Ireland,Ireland,10,Barry McCarthy,not_out,6,5,0,0,120
-T20I # 1862,New Zealand Vs Ireland,Ireland,11,Josh Little,not_out,8,4,0,1,200
+T20I # 1862,New Zealand Vs Ireland,Ireland,9,Mark Adair,out,4,5,0,0,80.00
+T20I # 1862,New Zealand Vs Ireland,Ireland,10,Barry McCarthy,not_out,6,5,0,0,120.00
+T20I # 1862,New Zealand Vs Ireland,Ireland,11,Josh Little,not_out,8,4,0,1,200.00
 T20I # 1864,Australia Vs Afghanistan,Australia,1,David Warner,out,25,18,5,0,138.88
-T20I # 1864,Australia Vs Afghanistan,Australia,2,Cameron Green,out,3,2,0,0,150
-T20I # 1864,Australia Vs Afghanistan,Australia,3,Mitchell Marsh,out,45,30,3,2,150
-T20I # 1864,Australia Vs Afghanistan,Australia,4,Steven Smith,out,4,4,1,0,100
+T20I # 1864,Australia Vs Afghanistan,Australia,2,Cameron Green,out,3,2,0,0,150.00
+T20I # 1864,Australia Vs Afghanistan,Australia,3,Mitchell Marsh,out,45,30,3,2,150.00
+T20I # 1864,Australia Vs Afghanistan,Australia,4,Steven Smith,out,4,4,1,0,100.00
 T20I # 1864,Australia Vs Afghanistan,Australia,5,Marcus Stoinis,out,25,21,0,2,119.04
 T20I # 1864,Australia Vs Afghanistan,Australia,6,Glenn Maxwell,not_out,54,32,6,2,168.75
-T20I # 1864,Australia Vs Afghanistan,Australia,7,Matthew Wade(c) ,out,6,8,1,0,75
-T20I # 1864,Australia Vs Afghanistan,Australia,8,Pat Cummins,out,0,2,0,0,0
-T20I # 1864,Australia Vs Afghanistan,Australia,9,Kane Richardson,out,1,1,0,0,100
-T20I # 1864,Australia Vs Afghanistan,Australia,10,Adam Zampa,not_out,1,1,0,0,100
-T20I # 1864,Australia Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz ,out,30,17,2,2,176.47
+T20I # 1864,Australia Vs Afghanistan,Australia,7,Matthew Wade(c),out,6,8,1,0,75.00
+T20I # 1864,Australia Vs Afghanistan,Australia,8,Pat Cummins,out,0,2,0,0,0.00
+T20I # 1864,Australia Vs Afghanistan,Australia,9,Kane Richardson,out,1,1,0,0,100.00
+T20I # 1864,Australia Vs Afghanistan,Australia,10,Adam Zampa,not_out,1,1,0,0,100.00
+T20I # 1864,Australia Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,out,30,17,2,2,176.47
 T20I # 1864,Australia Vs Afghanistan,Afghanistan,2,Usman Ghani,out,2,7,0,0,28.57
 T20I # 1864,Australia Vs Afghanistan,Afghanistan,3,Ibrahim Zadran,out,26,33,2,0,78.78
 T20I # 1864,Australia Vs Afghanistan,Afghanistan,4,Gulbadin Naib,out,39,23,3,2,169.56
-T20I # 1864,Australia Vs Afghanistan,Afghanistan,5,Mohammad Nabi(c),out,1,2,0,0,50
-T20I # 1864,Australia Vs Afghanistan,Afghanistan,6,Najibullah Zadran,out,0,2,0,0,0
+T20I # 1864,Australia Vs Afghanistan,Afghanistan,5,Mohammad Nabi(c),out,1,2,0,0,50.00
+T20I # 1864,Australia Vs Afghanistan,Afghanistan,6,Najibullah Zadran,out,0,2,0,0,0.00
 T20I # 1864,Australia Vs Afghanistan,Afghanistan,7,Darwish Rasooli,out,15,13,1,0,115.38
 T20I # 1864,Australia Vs Afghanistan,Afghanistan,8,Rashid Khan,not_out,48,23,3,4,208.69
 T20I # 1864,Australia Vs Afghanistan,Afghanistan,9,Naveen-ul-Haq,not_out,0,0,0,0,-
 T20I # 1867,Sri Lanka Vs England,Sri Lanka,1,Pathum Nissanka,out,67,45,2,5,148.88
-T20I # 1867,Sri Lanka Vs England,Sri Lanka,2,Kusal Mendis ,out,18,14,1,1,128.57
+T20I # 1867,Sri Lanka Vs England,Sri Lanka,2,Kusal Mendis,out,18,14,1,1,128.57
 T20I # 1867,Sri Lanka Vs England,Sri Lanka,3,Dhananjaya de Silva,out,9,11,0,0,81.81
 T20I # 1867,Sri Lanka Vs England,Sri Lanka,4,Charith Asalanka,out,8,9,0,0,88.88
-T20I # 1867,Sri Lanka Vs England,Sri Lanka,5,Bhanuka Rajapaksa,out,22,22,3,0,100
-T20I # 1867,Sri Lanka Vs England,Sri Lanka,6,Dasun Shanaka(c),out,3,8,0,0,37.5
-T20I # 1867,Sri Lanka Vs England,Sri Lanka,7,Wanindu Hasaranga de Silva,out,9,9,1,0,100
-T20I # 1867,Sri Lanka Vs England,Sri Lanka,8,Chamika Karunaratne,out,0,2,0,0,0
+T20I # 1867,Sri Lanka Vs England,Sri Lanka,5,Bhanuka Rajapaksa,out,22,22,3,0,100.00
+T20I # 1867,Sri Lanka Vs England,Sri Lanka,6,Dasun Shanaka(c),out,3,8,0,0,37.50
+T20I # 1867,Sri Lanka Vs England,Sri Lanka,7,Wanindu Hasaranga de Silva,out,9,9,1,0,100.00
+T20I # 1867,Sri Lanka Vs England,Sri Lanka,8,Chamika Karunaratne,out,0,2,0,0,0.00
 T20I # 1867,Sri Lanka Vs England,Sri Lanka,9,Maheesh Theekshana,not_out,0,0,0,0,-
-T20I # 1867,Sri Lanka Vs England,England,1,Jos Buttler(c) ,out,28,23,2,1,121.73
+T20I # 1867,Sri Lanka Vs England,England,1,Jos Buttler(c),out,28,23,2,1,121.73
 T20I # 1867,Sri Lanka Vs England,England,2,Alex Hales,out,47,30,7,1,156.66
 T20I # 1867,Sri Lanka Vs England,England,3,Ben Stokes,not_out,42,36,2,0,116.66
-T20I # 1867,Sri Lanka Vs England,England,4,Harry Brook,out,4,5,0,0,80
+T20I # 1867,Sri Lanka Vs England,England,4,Harry Brook,out,4,5,0,0,80.00
 T20I # 1867,Sri Lanka Vs England,England,5,Liam Livingstone,out,4,6,0,0,66.66
-T20I # 1867,Sri Lanka Vs England,England,6,Moeen Ali,out,1,5,0,0,20
+T20I # 1867,Sri Lanka Vs England,England,6,Moeen Ali,out,1,5,0,0,20.00
 T20I # 1867,Sri Lanka Vs England,England,7,Sam Curran,out,6,11,0,0,54.54
 T20I # 1867,Sri Lanka Vs England,England,8,Chris Woakes,not_out,5,3,1,0,166.66
 T20I # 1871,Netherlands Vs South Africa,Netherlands,1,Stephan Myburgh,out,37,30,7,0,123.33
@@ -584,28 +615,28 @@ T20I # 1871,Netherlands Vs South Africa,Netherlands,2,Max O'Dowd,out,29,31,1,1,9
 T20I # 1871,Netherlands Vs South Africa,Netherlands,3,Tom Cooper,out,35,19,2,2,184.21
 T20I # 1871,Netherlands Vs South Africa,Netherlands,4,Colin Ackermann,not_out,41,26,3,2,157.69
 T20I # 1871,Netherlands Vs South Africa,Netherlands,5,Bas de Leede,out,1,7,0,0,14.28
-T20I # 1871,Netherlands Vs South Africa,Netherlands,6,Scott Edwards(c) ,not_out,12,7,2,0,171.42
-T20I # 1871,Netherlands Vs South Africa,South Africa,1,Quinton de Kock ,out,13,13,1,1,100
-T20I # 1871,Netherlands Vs South Africa,South Africa,2,Temba Bavuma(c),out,20,20,2,0,100
+T20I # 1871,Netherlands Vs South Africa,Netherlands,6,Scott Edwards(c),not_out,12,7,2,0,171.42
+T20I # 1871,Netherlands Vs South Africa,South Africa,1,Quinton de Kock,out,13,13,1,1,100.00
+T20I # 1871,Netherlands Vs South Africa,South Africa,2,Temba Bavuma(c),out,20,20,2,0,100.00
 T20I # 1871,Netherlands Vs South Africa,South Africa,3,Rilee Rossouw,out,25,19,2,0,131.57
 T20I # 1871,Netherlands Vs South Africa,South Africa,4,Aiden Markram,out,17,13,2,0,130.76
-T20I # 1871,Netherlands Vs South Africa,South Africa,5,David Miller,out,17,17,1,0,100
+T20I # 1871,Netherlands Vs South Africa,South Africa,5,David Miller,out,17,17,1,0,100.00
 T20I # 1871,Netherlands Vs South Africa,South Africa,6,Heinrich Klaasen,out,21,18,0,1,116.66
-T20I # 1871,Netherlands Vs South Africa,South Africa,7,Wayne Parnell,out,0,2,0,0,0
+T20I # 1871,Netherlands Vs South Africa,South Africa,7,Wayne Parnell,out,0,2,0,0,0.00
 T20I # 1871,Netherlands Vs South Africa,South Africa,8,Keshav Maharaj,out,13,12,0,1,108.33
-T20I # 1871,Netherlands Vs South Africa,South Africa,9,Kagiso Rabada,not_out,9,8,0,0,112.5
-T20I # 1871,Netherlands Vs South Africa,South Africa,10,Anrich Nortje,not_out,4,1,1,0,400
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,1,Najmul Hossain Shanto,out,54,48,7,0,112.5
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,2,Litton Das,out,10,8,0,1,125
+T20I # 1871,Netherlands Vs South Africa,South Africa,9,Kagiso Rabada,not_out,9,8,0,0,112.50
+T20I # 1871,Netherlands Vs South Africa,South Africa,10,Anrich Nortje,not_out,4,1,1,0,400.00
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,1,Najmul Hossain Shanto,out,54,48,7,0,112.50
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,2,Litton Das,out,10,8,0,1,125.00
 T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,3,Soumya Sarkar,out,20,17,1,1,117.64
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,4,Shakib Al Hasan(c),out,0,1,0,0,0
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,5,Afif Hossain,not_out,24,20,3,0,120
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,4,Shakib Al Hasan(c),out,0,1,0,0,0.00
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,5,Afif Hossain,not_out,24,20,3,0,120.00
 T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,6,Mosaddek Hossain,out,5,11,0,0,45.45
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,7,Nurul Hasan ,out,0,3,0,0,0
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,8,Taskin Ahmed,out,1,5,0,0,20
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,7,Nurul Hasan,out,0,3,0,0,0.00
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,8,Taskin Ahmed,out,1,5,0,0,20.00
 T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,9,Nasum Ahmed,out,7,6,1,0,116.66
-T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,10,Mustafizur Rahman,not_out,0,1,0,0,0
-T20I # 1872,Bangladesh Vs Pakistan,Pakistan,1,Mohammad Rizwan ,out,32,32,2,1,100
+T20I # 1872,Bangladesh Vs Pakistan,Bangladesh,10,Mustafizur Rahman,not_out,0,1,0,0,0.00
+T20I # 1872,Bangladesh Vs Pakistan,Pakistan,1,Mohammad Rizwan,out,32,32,2,1,100.00
 T20I # 1872,Bangladesh Vs Pakistan,Pakistan,2,Babar Azam(c),out,25,33,2,0,75.75
 T20I # 1872,Bangladesh Vs Pakistan,Pakistan,3,Mohammad Nawaz,out,4,11,0,0,36.36
 T20I # 1872,Bangladesh Vs Pakistan,Pakistan,4,Mohammad Haris,out,31,18,1,2,172.22
@@ -614,77 +645,56 @@ T20I # 1872,Bangladesh Vs Pakistan,Pakistan,6,Iftikhar Ahmed,out,1,3,0,0,33.33
 T20I # 1872,Bangladesh Vs Pakistan,Pakistan,7,Shadab Khan,not_out,0,0,0,0,-
 T20I # 1873,India Vs Zimbabwe,India,1,KL Rahul,out,51,35,3,3,145.71
 T20I # 1873,India Vs Zimbabwe,India,2,Rohit Sharma(c),out,15,13,2,0,115.38
-T20I # 1873,India Vs Zimbabwe,India,3,Virat Kohli,out,26,25,2,0,104
-T20I # 1873,India Vs Zimbabwe,India,4,Suryakumar Yadav,not_out,61,25,6,4,244
-T20I # 1873,India Vs Zimbabwe,India,5,Rishabh Pant ,out,3,5,0,0,60
-T20I # 1873,India Vs Zimbabwe,India,6,Hardik Pandya,out,18,18,2,0,100
+T20I # 1873,India Vs Zimbabwe,India,3,Virat Kohli,out,26,25,2,0,104.00
+T20I # 1873,India Vs Zimbabwe,India,4,Suryakumar Yadav,not_out,61,25,6,4,244.00
+T20I # 1873,India Vs Zimbabwe,India,5,Rishabh Pant,out,3,5,0,0,60.00
+T20I # 1873,India Vs Zimbabwe,India,6,Hardik Pandya,out,18,18,2,0,100.00
 T20I # 1873,India Vs Zimbabwe,India,7,Axar Patel,not_out,0,0,0,0,-
-T20I # 1873,India Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,out,0,1,0,0,0
+T20I # 1873,India Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,out,0,1,0,0,0.00
 T20I # 1873,India Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),out,13,15,2,0,86.66
-T20I # 1873,India Vs Zimbabwe,Zimbabwe,3,Regis Chakabva ,out,0,6,0,0,0
+T20I # 1873,India Vs Zimbabwe,Zimbabwe,3,Regis Chakabva,out,0,6,0,0,0.00
 T20I # 1873,India Vs Zimbabwe,Zimbabwe,4,Sean Williams,out,11,18,0,1,61.11
 T20I # 1873,India Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,out,34,24,3,0,141.66
-T20I # 1873,India Vs Zimbabwe,Zimbabwe,6,Tony Munyonga,out,5,4,1,0,125
+T20I # 1873,India Vs Zimbabwe,Zimbabwe,6,Tony Munyonga,out,5,4,1,0,125.00
 T20I # 1873,India Vs Zimbabwe,Zimbabwe,7,Ryan Burl,out,35,22,5,1,159.09
 T20I # 1873,India Vs Zimbabwe,Zimbabwe,8,Wellington Masakadza,out,1,7,0,0,14.28
-T20I # 1873,India Vs Zimbabwe,Zimbabwe,9,Richard Ngarava,out,1,2,0,0,50
-T20I # 1873,India Vs Zimbabwe,Zimbabwe,10,Tendai Chatara,out,4,4,1,0,100
-T20I # 1873,India Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,not_out,0,2,0,0,0
+T20I # 1873,India Vs Zimbabwe,Zimbabwe,9,Richard Ngarava,out,1,2,0,0,50.00
+T20I # 1873,India Vs Zimbabwe,Zimbabwe,10,Tendai Chatara,out,4,4,1,0,100.00
+T20I # 1873,India Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,not_out,0,2,0,0,0.00
 T20I # 1877,New Zealand Vs Pakistan,New Zealand,1,Finn Allen,out,4,3,1,0,133.33
-T20I # 1877,New Zealand Vs Pakistan,New Zealand,2,Devon Conway ,out,21,20,3,0,105
+T20I # 1877,New Zealand Vs Pakistan,New Zealand,2,Devon Conway,out,21,20,3,0,105.00
 T20I # 1877,New Zealand Vs Pakistan,New Zealand,3,Kane Williamson(c),out,46,42,1,1,109.52
-T20I # 1877,New Zealand Vs Pakistan,New Zealand,4,Glenn Phillips,out,6,8,1,0,75
+T20I # 1877,New Zealand Vs Pakistan,New Zealand,4,Glenn Phillips,out,6,8,1,0,75.00
 T20I # 1877,New Zealand Vs Pakistan,New Zealand,5,Daryl Mitchell,not_out,53,35,3,1,151.42
 T20I # 1877,New Zealand Vs Pakistan,New Zealand,6,James Neesham,not_out,16,12,1,0,133.33
-T20I # 1877,New Zealand Vs Pakistan,Pakistan,1,Mohammad Rizwan ,out,57,43,5,0,132.55
+T20I # 1877,New Zealand Vs Pakistan,Pakistan,1,Mohammad Rizwan,out,57,43,5,0,132.55
 T20I # 1877,New Zealand Vs Pakistan,Pakistan,2,Babar Azam(c),out,53,42,7,0,126.19
 T20I # 1877,New Zealand Vs Pakistan,Pakistan,3,Mohammad Haris,out,30,26,2,1,115.38
-T20I # 1877,New Zealand Vs Pakistan,Pakistan,4,Shan Masood,not_out,3,4,0,0,75
+T20I # 1877,New Zealand Vs Pakistan,Pakistan,4,Shan Masood,not_out,3,4,0,0,75.00
 T20I # 1877,New Zealand Vs Pakistan,Pakistan,5,Iftikhar Ahmed,not_out,0,0,0,0,-
-T20I # 1878,India Vs England,India,1,KL Rahul,out,5,5,1,0,100
+T20I # 1878,India Vs England,India,1,KL Rahul,out,5,5,1,0,100.00
 T20I # 1878,India Vs England,India,2,Rohit Sharma(c),out,27,28,4,0,96.42
-T20I # 1878,India Vs England,India,3,Virat Kohli,out,50,40,4,1,125
-T20I # 1878,India Vs England,India,4,Suryakumar Yadav,out,14,10,1,1,140
-T20I # 1878,India Vs England,India,5,Hardik Pandya,out,63,33,4,5,190.9
-T20I # 1878,India Vs England,India,6,Rishabh Pant ,out,6,4,1,0,150
+T20I # 1878,India Vs England,India,3,Virat Kohli,out,50,40,4,1,125.00
+T20I # 1878,India Vs England,India,4,Suryakumar Yadav,out,14,10,1,1,140.00
+T20I # 1878,India Vs England,India,5,Hardik Pandya,out,63,33,4,5,190.90
+T20I # 1878,India Vs England,India,6,Rishabh Pant,out,6,4,1,0,150.00
 T20I # 1878,India Vs England,India,7,Ravichandran Ashwin,not_out,0,0,0,0,-
-T20I # 1878,India Vs England,England,1,Jos Buttler(c) ,not_out,80,49,9,3,163.26
+T20I # 1878,India Vs England,England,1,Jos Buttler(c),not_out,80,49,9,3,163.26
 T20I # 1878,India Vs England,England,2,Alex Hales,not_out,86,47,4,7,182.97
-T20I # 1879,Pakistan Vs England,Pakistan,1,Mohammad Rizwan ,out,15,14,0,1,107.14
+T20I # 1879,Pakistan Vs England,Pakistan,1,Mohammad Rizwan,out,15,14,0,1,107.14
 T20I # 1879,Pakistan Vs England,Pakistan,2,Babar Azam(c),out,32,28,2,0,114.28
 T20I # 1879,Pakistan Vs England,Pakistan,3,Mohammad Haris,out,8,12,1,0,66.66
 T20I # 1879,Pakistan Vs England,Pakistan,4,Shan Masood,out,38,28,2,1,135.71
-T20I # 1879,Pakistan Vs England,Pakistan,5,Iftikhar Ahmed,out,0,6,0,0,0
+T20I # 1879,Pakistan Vs England,Pakistan,5,Iftikhar Ahmed,out,0,6,0,0,0.00
 T20I # 1879,Pakistan Vs England,Pakistan,6,Shadab Khan,out,20,14,2,0,142.85
 T20I # 1879,Pakistan Vs England,Pakistan,7,Mohammad Nawaz,out,5,7,0,0,71.42
-T20I # 1879,Pakistan Vs England,Pakistan,8,Mohammad Wasim,out,4,8,0,0,50
+T20I # 1879,Pakistan Vs England,Pakistan,8,Mohammad Wasim,out,4,8,0,0,50.00
 T20I # 1879,Pakistan Vs England,Pakistan,9,Shaheen Shah Afridi,not_out,5,3,1,0,166.66
-T20I # 1879,Pakistan Vs England,Pakistan,10,Haris Rauf,not_out,1,1,0,0,100
-T20I # 1879,Pakistan Vs England,England,1,Jos Buttler(c) ,out,26,17,3,1,152.94
-T20I # 1879,Pakistan Vs England,England,2,Alex Hales,out,1,2,0,0,50
+T20I # 1879,Pakistan Vs England,Pakistan,10,Haris Rauf,not_out,1,1,0,0,100.00
+T20I # 1879,Pakistan Vs England,England,1,Jos Buttler(c),out,26,17,3,1,152.94
+T20I # 1879,Pakistan Vs England,England,2,Alex Hales,out,1,2,0,0,50.00
 T20I # 1879,Pakistan Vs England,England,3,Phil Salt,out,10,9,2,0,111.11
 T20I # 1879,Pakistan Vs England,England,4,Ben Stokes,not_out,52,49,5,1,106.12
 T20I # 1879,Pakistan Vs England,England,5,Harry Brook,out,20,23,1,0,86.95
 T20I # 1879,Pakistan Vs England,England,6,Moeen Ali,out,19,13,3,0,146.15
-T20I # 1879,Pakistan Vs England,England,7,Liam Livingstone,not_out,1,1,0,0,100
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,1,Pathum Nissanka,out,74,60,6,2,123.33
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,2,Kusal Mendis ,out,18,13,2,0,138.46
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,3,Dhananjaya de Silva,out,33,21,3,1,157.14
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,4,Bhanuka Rajapaksa,out,5,8,0,0,62.5
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,5,Charith Asalanka,out,0,1,0,0,0
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,6,Dasun Shanaka(c),out,0,1,0,0,0
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,7,Wanindu Hasaranga de Silva,out,2,3,0,0,66.66
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,8,Chamika Karunaratne,out,8,11,1,0,72.72
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,9,Pramod Madushan,not_out,1,1,0,0,100
-T20I # 1832,Sri Lanka Vs U.A.E.,Sri Lanka,10,Dushmantha Chameera,not_out,1,1,0,0,100
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,1,Muhammad Waseem,out,2,4,0,0,50
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,2,Chirag Suri,out,14,19,3,0,73.68
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,3,Aryan Lakra,out,1,3,0,0,33.33
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,4,Chundangapoyil Rizwan(c),out,1,3,0,0,33.33
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,5,Vriitya Aravind ,out,9,18,1,0,50
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,6,Basil Hameed,out,2,6,0,0,33.33
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,7,Aayan Afzal Khan,out,19,21,1,0,90.47
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,8,Kashif Daud,out,0,4,0,0,0
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,9,Karthik Meiyappan,out,4,8,0,0,50
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,10,Junaid Siddique,out,18,16,1,1,112.5
-T20I # 1832,Sri Lanka Vs U.A.E.,U.A.E.,11,Zahoor Khan,not_out,1,1,0,0,100
+T20I # 1879,Pakistan Vs England,England,7,Liam Livingstone,not_out,1,1,0,0,100.00

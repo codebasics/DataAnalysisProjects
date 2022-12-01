@@ -4,7 +4,7 @@
 navigate('https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament');
 
 
-let links = parse().match_summary_links;
+let links = parse().matchSummaryLinks;
 for(let i of links) { 
   next_stage({url: i}) 
 }
@@ -18,7 +18,7 @@ const allRows = $('table.engineTable > tbody > tr.data1');
   links.push(rowURL);
  })
 return {
-  'match_summary_links': links
+  'matchSummaryLinks': links
 };
 
 /* -------------- STAGE 2 ------------ */
@@ -32,9 +32,9 @@ var match = $('div').filter(function(){
 	return $(this)
       .find('span > span > span').text() === String("Match Details") 
 }).siblings()
-team1 = $(match.eq(0)).find('span > span > span').text()
-team2 = $(match.eq(1)).find('span > span > span').text()
-matchInfo = team1.replace(" Innings", "") +  ' Vs ' + team2.replace(" Innings", "")
+team1 = $(match.eq(0)).find('span > span > span').text().replace(" Innings", "")
+team2 = $(match.eq(1)).find('span > span > span').text().replace(" Innings", "")
+matchInfo = team1 +  ' Vs ' + team2
 
 var tables = $('div > table.ci-scorecard-table');
 var firstInningRows = $(tables.eq(0)).find('tbody > tr').filter(function(index, element){
@@ -51,12 +51,12 @@ firstInningRows.each((index, element) => {
   var tds = $(element).find('td');
   battingSummary.push({
   		"match": matchInfo,
-  		"team_innings": team1,
-   		"batting_pos": index+1,
-  		"batsman_name": $(tds.eq(0)).find('a > span > span').text().replace(' ', ''),
+  		"teamInnings": team1,
+   		"battingPos": index+1,
+  		"batsmanName": $(tds.eq(0)).find('a > span > span').text().replace(' ', ''),
     	"dismissal": $(tds.eq(1)).find('span > span').text(),
-  		"run": $(tds.eq(2)).find('strong').text(), 
-  		"ball": $(tds.eq(3)).text(),
+  		"runs": $(tds.eq(2)).find('strong').text(), 
+  		"balls": $(tds.eq(3)).text(),
   		"4s": $(tds.eq(5)).text(),
   		"6s": $(tds.eq(6)).text(),
  		"SR": $(tds.eq(7)).text()
@@ -67,16 +67,16 @@ secondInningsRows.each((index, element) => {
   var tds = $(element).find('td');
    battingSummary.push({
   		"match": matchInfo,
-  		"team_innings": team2,
-   		"batting_pos": index+1,
-  		"batsman_name": $(tds.eq(0)).find('a > span > span').text().replace(' ', ''),
+  		"teamInnings": team2,
+   		"battingPos": index+1,
+  		"batsmanName": $(tds.eq(0)).find('a > span > span').text().replace(' ', ''),
      	"dismissal": $(tds.eq(1)).find('span > span').text(),
-  		"run": $(tds.eq(2)).find('strong').text(), 
-  		"ball": $(tds.eq(3)).text(),
+  		"runs": $(tds.eq(2)).find('strong').text(), 
+  		"balls": $(tds.eq(3)).text(),
   		"4s": $(tds.eq(5)).text(),
   		"6s": $(tds.eq(6)).text(),
  		"SR": $(tds.eq(7)).text()
   });
 });
 
-return {"batting_summary": battingSummary}
+return {"battingSummary": battingSummary}
