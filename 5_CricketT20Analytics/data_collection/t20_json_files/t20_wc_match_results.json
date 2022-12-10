@@ -1,0 +1,411 @@
+[
+  {
+    "matchSummary": [
+      {
+        "team1": "Namibia",
+        "team2": "Sri Lanka",
+        "winner": "Namibia",
+        "margin": "55 runs",
+        "ground": "Geelong",
+        "matchDate": "Oct 16, 2022",
+        "scorecard": "T20I # 1823"
+      },
+      {
+        "team1": "Netherlands",
+        "team2": "U.A.E.",
+        "winner": "Netherlands",
+        "margin": "3 wickets",
+        "ground": "Geelong",
+        "matchDate": "Oct 16, 2022",
+        "scorecard": "T20I # 1825"
+      },
+      {
+        "team1": "Scotland",
+        "team2": "West Indies",
+        "winner": "Scotland",
+        "margin": "42 runs",
+        "ground": "Hobart",
+        "matchDate": "Oct 17, 2022",
+        "scorecard": "T20I # 1826"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "Zimbabwe",
+        "winner": "Zimbabwe",
+        "margin": "31 runs",
+        "ground": "Hobart",
+        "matchDate": "Oct 17, 2022",
+        "scorecard": "T20I # 1828"
+      },
+      {
+        "team1": "Namibia",
+        "team2": "Netherlands",
+        "winner": "Netherlands",
+        "margin": "5 wickets",
+        "ground": "Geelong",
+        "matchDate": "Oct 18, 2022",
+        "scorecard": "T20I # 1830"
+      },
+      {
+        "team1": "Sri Lanka",
+        "team2": "U.A.E.",
+        "winner": "Sri Lanka",
+        "margin": "79 runs",
+        "ground": "Geelong",
+        "matchDate": "Oct 18, 2022",
+        "scorecard": "T20I # 1832"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "Scotland",
+        "winner": "Ireland",
+        "margin": "6 wickets",
+        "ground": "Hobart",
+        "matchDate": "Oct 19, 2022",
+        "scorecard": "T20I # 1833"
+      },
+      {
+        "team1": "West Indies",
+        "team2": "Zimbabwe",
+        "winner": "West Indies",
+        "margin": "31 runs",
+        "ground": "Hobart",
+        "matchDate": "Oct 19, 2022",
+        "scorecard": "T20I # 1834"
+      },
+      {
+        "team1": "Netherlands",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "16 runs",
+        "ground": "Geelong",
+        "matchDate": "Oct 20, 2022",
+        "scorecard": "T20I # 1835"
+      },
+      {
+        "team1": "Namibia",
+        "team2": "U.A.E.",
+        "winner": "U.A.E.",
+        "margin": "7 runs",
+        "ground": "Geelong",
+        "matchDate": "Oct 20, 2022",
+        "scorecard": "T20I # 1836"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "West Indies",
+        "winner": "Ireland",
+        "margin": "9 wickets",
+        "ground": "Hobart",
+        "matchDate": "Oct 21, 2022",
+        "scorecard": "T20I # 1837"
+      },
+      {
+        "team1": "Scotland",
+        "team2": "Zimbabwe",
+        "winner": "Zimbabwe",
+        "margin": "5 wickets",
+        "ground": "Hobart",
+        "matchDate": "Oct 21, 2022",
+        "scorecard": "T20I # 1838"
+      },
+      {
+        "team1": "Australia",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "margin": "89 runs",
+        "ground": "Sydney",
+        "matchDate": "Oct 22, 2022",
+        "scorecard": "T20I # 1839"
+      },
+      {
+        "team1": "Afghanistan",
+        "team2": "England",
+        "winner": "England",
+        "margin": "5 wickets",
+        "ground": "Perth",
+        "matchDate": "Oct 22, 2022",
+        "scorecard": "T20I # 1840"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "9 wickets",
+        "ground": "Hobart",
+        "matchDate": "Oct 23, 2022",
+        "scorecard": "T20I # 1841"
+      },
+      {
+        "team1": "India",
+        "team2": "Pakistan",
+        "winner": "India",
+        "margin": "4 wickets",
+        "ground": "Melbourne",
+        "matchDate": "Oct 23, 2022",
+        "scorecard": "T20I # 1842"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "Netherlands",
+        "winner": "Bangladesh",
+        "margin": "9 runs",
+        "ground": "Hobart",
+        "matchDate": "Oct 24, 2022",
+        "scorecard": "T20I # 1843"
+      },
+      {
+        "team1": "South Africa",
+        "team2": "Zimbabwe",
+        "winner": "no result",
+        "margin": "",
+        "ground": "Hobart",
+        "matchDate": "Oct 24, 2022",
+        "scorecard": "T20I # 1844"
+      },
+      {
+        "team1": "Australia",
+        "team2": "Sri Lanka",
+        "winner": "Australia",
+        "margin": "7 wickets",
+        "ground": "Perth",
+        "matchDate": "Oct 25, 2022",
+        "scorecard": "T20I # 1845"
+      },
+      {
+        "team1": "England",
+        "team2": "Ireland",
+        "winner": "Ireland",
+        "margin": "5 runs",
+        "ground": "Melbourne",
+        "matchDate": "Oct 26, 2022",
+        "scorecard": "T20I # 1846"
+      },
+      {
+        "team1": "Afghanistan",
+        "team2": "New Zealand",
+        "winner": "abandoned",
+        "margin": "",
+        "ground": "Melbourne",
+        "matchDate": "Oct 26, 2022",
+        "scorecard": "T20I # 1846a"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "104 runs",
+        "ground": "Sydney",
+        "matchDate": "Oct 27, 2022",
+        "scorecard": "T20I # 1847"
+      },
+      {
+        "team1": "India",
+        "team2": "Netherlands",
+        "winner": "India",
+        "margin": "56 runs",
+        "ground": "Sydney",
+        "matchDate": "Oct 27, 2022",
+        "scorecard": "T20I # 1848"
+      },
+      {
+        "team1": "Pakistan",
+        "team2": "Zimbabwe",
+        "winner": "Zimbabwe",
+        "margin": "1 run",
+        "ground": "Perth",
+        "matchDate": "Oct 27, 2022",
+        "scorecard": "T20I # 1849"
+      },
+      {
+        "team1": "Afghanistan",
+        "team2": "Ireland",
+        "winner": "abandoned",
+        "margin": "",
+        "ground": "Melbourne",
+        "matchDate": "Oct 28, 2022",
+        "scorecard": "T20I # 1849a"
+      },
+      {
+        "team1": "Australia",
+        "team2": "England",
+        "winner": "abandoned",
+        "margin": "",
+        "ground": "Melbourne",
+        "matchDate": "Oct 28, 2022",
+        "scorecard": "T20I # 1849b"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "Sri Lanka",
+        "winner": "New Zealand",
+        "margin": "65 runs",
+        "ground": "Sydney",
+        "matchDate": "Oct 29, 2022",
+        "scorecard": "T20I # 1850"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "Zimbabwe",
+        "winner": "Bangladesh",
+        "margin": "3 runs",
+        "ground": "Brisbane",
+        "matchDate": "Oct 30, 2022",
+        "scorecard": "T20I # 1851"
+      },
+      {
+        "team1": "Netherlands",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "6 wickets",
+        "ground": "Perth",
+        "matchDate": "Oct 30, 2022",
+        "scorecard": "T20I # 1852"
+      },
+      {
+        "team1": "India",
+        "team2": "South Africa",
+        "winner": "South Africa",
+        "margin": "5 wickets",
+        "ground": "Perth",
+        "matchDate": "Oct 30, 2022",
+        "scorecard": "T20I # 1853"
+      },
+      {
+        "team1": "Australia",
+        "team2": "Ireland",
+        "winner": "Australia",
+        "margin": "42 runs",
+        "ground": "Brisbane",
+        "matchDate": "Oct 31, 2022",
+        "scorecard": "T20I # 1855"
+      },
+      {
+        "team1": "Afghanistan",
+        "team2": "Sri Lanka",
+        "winner": "Sri Lanka",
+        "margin": "6 wickets",
+        "ground": "Brisbane",
+        "matchDate": "Nov 1, 2022",
+        "scorecard": "T20I # 1856"
+      },
+      {
+        "team1": "England",
+        "team2": "New Zealand",
+        "winner": "England",
+        "margin": "20 runs",
+        "ground": "Brisbane",
+        "matchDate": "Nov 1, 2022",
+        "scorecard": "T20I # 1858"
+      },
+      {
+        "team1": "Netherlands",
+        "team2": "Zimbabwe",
+        "winner": "Netherlands",
+        "margin": "5 wickets",
+        "ground": "Adelaide",
+        "matchDate": "Nov 2, 2022",
+        "scorecard": "T20I # 1859"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "India",
+        "winner": "India",
+        "margin": "5 runs",
+        "ground": "Adelaide",
+        "matchDate": "Nov 2, 2022",
+        "scorecard": "T20I # 1860"
+      },
+      {
+        "team1": "Pakistan",
+        "team2": "South Africa",
+        "winner": "Pakistan",
+        "margin": "33 runs",
+        "ground": "Sydney",
+        "matchDate": "Nov 3, 2022",
+        "scorecard": "T20I # 1861"
+      },
+      {
+        "team1": "Ireland",
+        "team2": "New Zealand",
+        "winner": "New Zealand",
+        "margin": "35 runs",
+        "ground": "Adelaide",
+        "matchDate": "Nov 4, 2022",
+        "scorecard": "T20I # 1862"
+      },
+      {
+        "team1": "Australia",
+        "team2": "Afghanistan",
+        "winner": "Australia",
+        "margin": "4 runs",
+        "ground": "Adelaide",
+        "matchDate": "Nov 4, 2022",
+        "scorecard": "T20I # 1864"
+      },
+      {
+        "team1": "England",
+        "team2": "Sri Lanka",
+        "winner": "England",
+        "margin": "4 wickets",
+        "ground": "Sydney",
+        "matchDate": "Nov 5, 2022",
+        "scorecard": "T20I # 1867"
+      },
+      {
+        "team1": "Netherlands",
+        "team2": "South Africa",
+        "winner": "Netherlands",
+        "margin": "13 runs",
+        "ground": "Adelaide",
+        "matchDate": "Nov 6, 2022",
+        "scorecard": "T20I # 1871"
+      },
+      {
+        "team1": "Bangladesh",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "5 wickets",
+        "ground": "Adelaide",
+        "matchDate": "Nov 6, 2022",
+        "scorecard": "T20I # 1872"
+      },
+      {
+        "team1": "India",
+        "team2": "Zimbabwe",
+        "winner": "India",
+        "margin": "71 runs",
+        "ground": "Melbourne",
+        "matchDate": "Nov 6, 2022",
+        "scorecard": "T20I # 1873"
+      },
+      {
+        "team1": "New Zealand",
+        "team2": "Pakistan",
+        "winner": "Pakistan",
+        "margin": "7 wickets",
+        "ground": "Sydney",
+        "matchDate": "Nov 9, 2022",
+        "scorecard": "T20I # 1877"
+      },
+      {
+        "team1": "England",
+        "team2": "India",
+        "winner": "England",
+        "margin": "10 wickets",
+        "ground": "Adelaide",
+        "matchDate": "Nov 10, 2022",
+        "scorecard": "T20I # 1878"
+      },
+      {
+        "team1": "England",
+        "team2": "Pakistan",
+        "winner": "England",
+        "margin": "5 wickets",
+        "ground": "Melbourne",
+        "matchDate": "Nov 13, 2022",
+        "scorecard": "T20I # 1879"
+      }
+    ]
+  }
+]
