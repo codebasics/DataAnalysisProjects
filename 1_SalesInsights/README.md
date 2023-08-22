@@ -7,6 +7,14 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 
+2. If anyone using xampp in that case, file might not be able to import in apache server.
+Because it does not contain the latest collate as the sql file requires.
+
+If you want to continue with xampp. Open your db_dump.sql file and replace every occurance of these below two things,
+
+1) utf8mb4_0900_ai_ci with utf8mb4_general_ci
+2) utf8mb4 with utf8
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
